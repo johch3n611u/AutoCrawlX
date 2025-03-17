@@ -36,8 +36,6 @@ The Zhihu discussion thread provides detailed insights, so if more specific requ
 
 https://www.npmjs.com/package/google-spreadsheet
 
----
-
 > 2023 / 07 / 31
 
 1. Encountered browser version incompatibility for the first time – [The frustrating version management of Chrome Browser and Driver](https://vocus.cc/article/620e7e14fd897800015b1643).

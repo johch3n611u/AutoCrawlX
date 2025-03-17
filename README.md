@@ -1,13 +1,42 @@
 # AutoCrawlX
 
-## The Evolution of Networks and Technology
+## Demand
 
-From computer networks → local area networks (LANs) → the internet → the World Wide Web → browsers → search engines → web crawlers.
+1. I want to create a simple script to scrape the popularity of front-end frameworks on major forums and job boards daily or monthly. This will help me determine which direction to take for side-projects, increasing my chances of moving to Australia in three years.
+2. Monitor the National Development Council (NDC) economic indicators and track the price movements of ETFs like 0050 and 0056 or US stocks such as VIX and QQQ. This isn't a high priority for now, but I might work on it later if there's an opportunity.
 
-From 3G / Bluetooth / WiFi / NFC / RFID / 4G / 5G—
-This rapid evolution of hardware ecosystems has laid the foundation for software advancements, enabling the transition to cloud computing (Web) and mobile applications (Mobile).
+## [Technology Stack Selection](https://www.zhihu.com/question/23643061) PHP，Python、Node.js
 
-With the continuous emergence of new technologies—AI, AAI, IoT, big data, and blockchain—the ultimate goal remains the same: applying these innovations to solve real-world needs.
+The Zhihu discussion thread provides detailed insights, so if more specific requirements arise later, I can refer to it for further information. For now, plain Node.js is sufficient as it allows me to run the project without installing a new development environment on my machine.
+
+## Development Timeline
+
+https://www.npmjs.com/package/google-spreadsheet
+
+---
+
+## Manual Query Example
+
+|-|-|-|
+|-|-|-|
+|技能|Seek|104|
+|java|7,518|5701|
+|python|6,555|6277|
+|c#|5,153|5494|
+|php|3,787|6209|
+|react|3,579|1453|
+|angular|3,186|965|
+|angularjs|906|448|
+|vue|583|1486|
+|ruby|290|340|
+|Golang|228|459|
+|ruby on rails|99|2996|
+|front end developer|4,128|||
+|前端工程師||3416|
+|back end developer|565||
+|後端工程師||3437|
+|full stack developer|2,177|||
+|全端工程師||17916||
 
 ------
 
@@ -82,44 +111,12 @@ Ref [selenium-webdriver：爬蟲起手式，帶你認識所見即所得的爬蟲
 
 It's hard to believe that as an IT professional, I didn't start working with web scraping until 1.5 years into my career.
 
----
+From computer networks → local area networks (LANs) → the internet → the World Wide Web → browsers → search engines → web crawlers.
+
+From 3G / Bluetooth / WiFi / NFC / RFID / 4G / 5G—
+
+This rapid evolution of hardware ecosystems has laid the foundation for software advancements, enabling the transition to cloud computing (Web) and mobile applications (Mobile).
+
+With the continuous emergence of new technologies—AI, AAI, IoT, big data, and blockchain—the ultimate goal remains the same: applying these innovations to solve real-world needs.
 
 Sorry for going off-topic; let's get back to the main point.
-
-## Demand
-
-1. I want to create a simple script to scrape the popularity of front-end frameworks on major forums and job boards daily or monthly. This will help me determine which direction to take for side-projects, increasing my chances of moving to Australia in three years.
-2. Monitor the National Development Council (NDC) economic indicators and track the price movements of ETFs like 0050 and 0056 or US stocks such as VIX and QQQ. This isn't a high priority for now, but I might work on it later if there's an opportunity.
-
-## [Technology Stack Selection](https://www.zhihu.com/question/23643061) PHP，Python、Node.js
-
-The Zhihu discussion thread provides detailed insights, so if more specific requirements arise later, I can refer to it for further information. For now, plain Node.js is sufficient as it allows me to run the project without installing a new development environment on my machine.
-
-## Development Timeline
-
-https://www.npmjs.com/package/google-spreadsheet
-
----
-
-## Manual Query Example
-
-|-|-|-|
-|-|-|-|
-|技能|Seek|104|
-|java|7,518|5701|
-|python|6,555|6277|
-|c#|5,153|5494|
-|php|3,787|6209|
-|react|3,579|1453|
-|angular|3,186|965|
-|angularjs|906|448|
-|vue|583|1486|
-|ruby|290|340|
-|Golang|228|459|
-|ruby on rails|99|2996|
-|front end developer|4,128|||
-|前端工程師||3416|
-|back end developer|565||
-|後端工程師||3437|
-|full stack developer|2,177|||
-|全端工程師||17916||

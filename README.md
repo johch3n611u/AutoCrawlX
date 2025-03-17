@@ -9,12 +9,6 @@
 
 The Zhihu discussion thread provides detailed insights, so if more specific requirements arise later, I can refer to it for further information. For now, plain Node.js is sufficient as it allows me to run the project without installing a new development environment on my machine.
 
-## Development Timeline
-
-https://www.npmjs.com/package/google-spreadsheet
-
----
-
 ## Manual Query Example
 
 |-|-|-|
@@ -38,7 +32,11 @@ https://www.npmjs.com/package/google-spreadsheet
 |full stack developer|2,177|||
 |全端工程師||17916||
 
-------
+## Development Timeline
+
+https://www.npmjs.com/package/google-spreadsheet
+
+---
 
 > 2023 / 07 / 31
 

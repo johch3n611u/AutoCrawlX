@@ -1,0 +1,4 @@
+3 SpecialNouns 特别名词
+4 Adjective 形容詞
+5 SwallowedSound 吞音連讀
+11 Comprehensive 綜合測試

@@ -1,0 +1,500 @@
+existent, 存在的, The idea of extraterrestrial life is still debated, but many believe it is existent in the universe., 外星生命的概念仍然存在爭議，但許多人認為它在宇宙中確實存在。
+famed, 著名的, The famed artist's paintings are now displayed in museums worldwide., 這位著名藝術家的畫作現在在全球各地的博物館展示。
+favourite, 最喜歡的, Chocolate ice cream is my favourite dessert, and I have it at least once a week., 巧克力冰淇淋是我最喜歡的甜點，我每週至少吃一次。
+heavier, 更重的, The new suitcase is heavier than the old one, making it more difficult to carry., 新的行李箱比舊的重，讓它變得更難搬運。
+herbivorous, 食草的, Elephants are herbivorous animals, mainly eating plants, fruits, and bark., 大象是食草動物，主要吃植物、水果和樹皮。
+highly-trained, 高度訓練的, The highly-trained rescue team responded quickly to the disaster site., 那支高度訓練的救援隊伍迅速響應了災難現場。
+illegal, 非法的, It is illegal to park in front of a fire hydrant, as it obstructs emergency access., 在消防栓前停車是非法的，因為這會阻礙緊急通行。
+inadequate, 不足的, The company's inadequate response to the customer complaints led to a decrease in sales., 公司對客戶投訴反應不足，導致銷售額下降。
+inspiring, 鼓舞人心的, The speaker's inspiring words motivated the audience to take action towards their goals., 演講者鼓舞人心的話語激勵了觀眾朝著自己的目標採取行動。
+irregular, 不規則的, The patient's heartbeat was irregular, so the doctor decided to run further tests., 病人的心跳不規則，因此醫生決定進一步檢查。
+little-known, 不為人知的, The little-known author has recently gained popularity after publishing her latest novel., 這位不為人知的作家在發表她的最新小說後最近獲得了人氣。
+mid, 中間的, We stopped for a break in the mid of our long drive to relax and refresh., 我們在長途駕駛的中途停下來休息，放鬆並恢復精力。
+migratory, 遷徙的, Migratory birds travel thousands of miles every year to find warmer climates., 遷徙的鳥類每年遷徙數千英里，尋找更溫暖的氣候。
+neighbouring, 相鄰的, The neighbouring towns collaborated to improve their local infrastructure and services., 相鄰的城鎮合作改善當地的基礎設施和服務。
+non-active, 非活躍的, He has a non-active role in the organization but still contributes occasionally., 他在組織中的角色是非活躍的，但偶爾仍會做出貢獻。
+occupational, 職業的, Occupational health and safety regulations are crucial to protect workers in hazardous environments., 職業健康和安全法規對於保護在危險環境中工作的工人至關重要。
+optic, 光學的, The optic cables are responsible for transmitting high-speed internet signals., 光纖電纜負責傳輸高速互聯網信號。
+payable, 應付的, The outstanding balance on the account is payable by the end of the month., 帳戶上的未付款項必須在月底前支付。
+predictable, 可預測的, The weather in this region is highly predictable, with consistent patterns throughout the year., 這個地區的天氣非常可預測，一年四季有著穩定的模式。
+printed, 印刷的, The printed instructions were easy to follow, helping users set up the device without difficulty., 印刷的說明書非常容易跟隨，幫助用戶輕鬆設置設備。
+psychiatric, 精神病學的, She sought help from a psychiatric professional to address her mental health concerns., 她向精神病學專業人士求助，以解決她的心理健康問題。
+purest, 最純的, The purest form of gold is 24 karat, with no other metals mixed in., 最純的金屬是24K金，沒有混合其他金屬。
+Queen's, 女王的, The Queen's speech on national television was watched by millions of people across the country., 女王在國家電視台的演講被全國數百萬人收看。
+recycled, 回收的, The company uses recycled paper for all of its printing needs to help protect the environment., 該公司為所有印刷需求使用回收紙，以幫助保護環境。
+reinforced, 強化的, The building was reinforced with steel beams to ensure its stability during an earthquake., 這棟建築用鋼梁加固，以確保在地震中穩定。
+related, 相關的, The data provided in the report is related to the financial performance of the company., 報告中提供的數據與公司的財務表現有關。
+rising, 上升的, The rising costs of living are causing financial stress for many families., 生活費用的上升正在給許多家庭帶來經濟壓力。
+sacked, 被解雇的, He was sacked from his job after repeatedly violating company policies., 他因為一再違反公司政策而被解雇。
+seasoned, 經驗豐富的, The seasoned chef prepared the gourmet meal with precision and creativity., 經驗豐富的廚師以精確和創意準備了這道美食。
+second-hand, 二手的, She bought a second-hand car to save money on transportation costs., 她買了一輛二手車，以節省交通費用。
+self-funded, 自籌資金的, The self-funded project relied on the team's savings to cover all expenses., 這個自籌資金的項目依靠團隊的積蓄來支付所有費用。
+self-sufficient, 自給自足的, The farm is self-sufficient, producing its own food and energy., 這個農場是自給自足的，生產自己的食物和能源。
+serial, 連載的, The author is writing a serial novel that will be published in monthly installments., 作者正在寫一部連載小說，每月分期出版。
+seven-screen, 七屏幕, The cinema offers a seven-screen setup, allowing multiple films to be shown simultaneously., 這家影院提供七屏幕設置，可以同時播放多部電影。
+shared, 共享的, The shared office space encourages collaboration and networking among workers from different companies., 共享辦公空間促進了來自不同公司的員工之間的合作和網絡。
+smelly, 發臭的, The garbage was left out too long and became smelly, causing an unpleasant odor in the neighborhood., 垃圾放得太久，發臭了，造成鄰里不愉快的氣味。
+soundproof, 隔音的, The soundproof walls of the recording studio ensure that no outside noise interferes with the recording process., 錄音室的隔音牆確保外部噪音不會干擾錄音過程。
+specialized, 專業的, He has a specialized knowledge of marine biology, making him an expert in his field., 他擁有專業的海洋生物學知識，使他成為該領域的專家。
+strained, 緊張的, The relationship between the two countries became strained after the trade dispute., 在貿易爭端後，兩國之間的關係變得緊張。
+stressful, 有壓力的, The job can be very stressful at times, especially when deadlines are approaching., 這份工作有時會非常有壓力，特別是當截止日期臨近時。
+stretching, 伸展的, Stretching before exercise is important to prevent muscle injuries and improve flexibility., 在運動前進行伸展運動對於預防肌肉受傷和改善靈活性很重要。
+surprised, 驚訝的, She was surprised by the unexpected party her friends had organized for her birthday., 她對朋友們為她的生日籌辦的驚喜派對感到驚訝。
+uncomfortable, 不舒服的, The chair was uncomfortable, and she had to adjust her position frequently during the meeting., 那張椅子不舒服，她在會議期間不得不頻繁調整坐姿。
+unconvincing, 令人信服的, His argument was unconvincing and lacked sufficient evidence to support his claims., 他的論點不具說服力，並且缺乏足夠的證據來支持他的主張。
+unfair, 不公平的, The decision to give him a lower grade was unfair, as he had worked hard on the project., 給他較低分數的決定是不公平的，因為他在項目上付出了很多努力。
+unhealthy, 不健康的, An unhealthy diet can lead to various health problems, including heart disease and obesity., 不健康的飲食可能會導致各種健康問題，包括心臟病和肥胖症。
+united, 團結的, The team remained united, working together to overcome challenges and win the championship., 團隊保持團結，齊心協力克服挑戰，贏得了冠軍。
+unreliable, 不可靠的, The old car proved to be unreliable, frequently breaking down during trips., 那輛舊車證明是非常不可靠的，經常在旅行中發生故障。
+unsocial, 不愛交際的, He is unsocial and prefers to spend his time alone rather than going out with friends., 他不愛交際，寧願獨自待著，也不願與朋友們外出。
+useless, 無用的, The old machine was deemed useless and was replaced with a newer, more efficient model., 那台舊機器被認為是無用的，並且被一個更新、更高效的型號取代。
+washable, 可洗的, The fabric is washable and can be easily cleaned in the washing machine., 這種布料是可洗的，可以輕鬆地放進洗衣機清洗。
+directly, 直接地, He spoke directly to the audience without any intermediaries or assistants., 他直接與觀眾交談，沒有任何中介或助理。
+effectively, 有效地, The new software allows the team to collaborate more effectively, improving productivity., 新軟件使團隊能更有效地合作，從而提高生產力。
+efficiently, 高效地, The machine was designed to operate efficiently, reducing energy consumption and costs., 這台機器設計得非常高效，能減少能量消耗和成本。
+originally, 最初, Originally from Spain, she moved to the UK to pursue her career in marketing., 她最初來自西班牙，為了追求營銷事業，她搬到了英國。
+physically, 身體上, He was physically exhausted after the long hike, but felt accomplished., 長時間的徒步旅行後，他身體上感到筋疲力盡，但感到很有成就感。
+professionally, 專業地, She handled the difficult situation professionally, remaining calm and collected throughout., 她專業地處理了這個困難的情況，始終保持冷靜和鎮定。
+rapidly, 快速地, The company expanded rapidly into international markets after launching its new product line., 在推出新產品系列後，公司迅速拓展到國際市場。
+regularly, 定期地, The team meets regularly to discuss project progress and address any concerns., 團隊定期開會，討論項目的進展並解決任何問題。
+virtually, 幾乎, The museum's collection is virtually unmatched, with rare artifacts from across the world., 該博物館的收藏幾乎無與倫比，擁有來自世界各地的稀有文物。
+notice board, 公告欄, Important announcements are posted on the notice board for all staff to see., 重要公告會張貼在公告欄上，供所有員工查看。
+truck licence, 卡車駕照, He obtained his truck licence to be able to drive large vehicles for his new job., 他取得了卡車駕照，以便能夠駕駛大型車輛，應徵新工作。
+payment basis, 付款方式, The service is offered on a monthly payment basis, allowing customers flexibility in payment., 該服務是按月付款方式提供，讓客戶在付款上有更大的靈活性。
+life span, 壽命, The life span of this appliance is estimated to be around 10 years with proper maintenance., 這個設備的壽命估計在適當維護下可達10年。
+consistent growth, 穩定增長, The company has experienced consistent growth in profits over the last five years., 公司在過去五年中實現了穩定的利潤增長。
+picking fruit, 採摘水果, Picking fruit from the orchard is a fun and rewarding activity, especially during harvest season., 從果園採摘水果是一項有趣且有成就感的活動，尤其是在收穫季節。
+health inquiry, 健康詢問, The health inquiry form asks for details about your medical history and current condition., 健康詢問表格要求提供有關您的病史和當前情況的詳細信息。
+medical insurance, 醫療保險, Medical insurance is essential to cover unexpected health expenses and emergencies., 醫療保險對於覆蓋突發的健康支出和緊急情況至關重要。
+specialist staff, 專業人員, The hospital employs specialist staff, including surgeons and therapists, to provide the best care., 醫院雇用專業人員，包括外科醫生和治療師，提供最好的醫療服務。
+full-time officers, 全職官員, The department is looking to hire more full-time officers to handle the increasing workload., 該部門正在尋找更多全職官員，以應對日益增加的工作量。
+selective course, 選修課程, She enrolled in a selective course on digital marketing to enhance her career prospects., 她報名參加了數字營銷的選修課程，以增強她的職業前景。
+teaching quality, 教學質量, Improving teaching quality is a priority for the school to ensure students' success., 提高教學質量是學校的首要任務，旨在確保學生的成功。
+fluid mechanics, 流體力學, Fluid mechanics is a branch of physics that studies the behavior of liquids and gases., 流體力學是物理學的一個分支，研究液體和氣體的行為。
+practical work, 實際操作, The course includes both theoretical learning and practical work to give students hands-on experience., 該課程包括理論學習和實際操作，讓學生獲得實踐經驗。
+energy efficient, 節能的, The building was designed to be energy efficient, with solar panels and insulation to reduce heating costs., 這座建築被設計為節能型，配有太陽能板和隔熱材料，以減少取暖成本。
+economic wealth, 經濟財富, Economic wealth is a result of a country's resources, production, and distribution of goods., 經濟財富是國家資源、生產和商品分配的結果。
+pre-existing health conditions, 既有健康狀況, Individuals with pre-existing health conditions should inform their doctor before starting a new medication., 有既有健康狀況的人在開始服用新藥前應該告知醫生。
+relevant working experience, 相關工作經驗, The job requires relevant working experience in customer service or retail management., 這份工作需要有相關的客戶服務或零售管理經驗。
+relevant skills, 相關技能, The position demands relevant skills in project management and team coordination., 該職位要求具有項目管理和團隊協調的相關技能。
+source of information, 資訊來源, The internet is a valuable source of information, but it is important to verify its accuracy., 互聯網是寶貴的資訊來源，但驗證其準確性非常重要。
+local school stadium, 當地學校體育場, The local school stadium hosts sporting events and competitions for students in the area., 當地學校的體育場舉辦該地區學生的體育賽事和比賽。
+college ground, 大學運動場, The college ground is used for various sports activities, including football and athletics., 大學運動場用於各種體育活動，包括足球和田徑。
+local stadium, 當地體育場, The local stadium is hosting a concert this weekend, attracting many visitors to the city., 當地體育場這個週末將舉辦一場音樂會，吸引了許多遊客來到城市。
+community centre, 社區中心, The community centre offers a variety of programs for residents, including fitness classes and social events., 社區中心為居民提供各種項目，包括健身課程和社交活動。
+overseas team, 海外團隊, The company has an overseas team that handles international clients and manages foreign operations., 公司擁有一支海外團隊，負責處理國際客戶和管理海外業務。
+application fee, 申請費, The application fee for the university program is due when submitting your application., 大學課程的申請費需在提交申請時繳交。
+wood carving, 木雕, The artist specializes in wood carving, creating intricate sculptures from various types of wood., 這位藝術家專注於木雕，利用各種木材創作精美的雕塑。
+personal tutor system, 個人輔導制度, The university offers a personal tutor system to provide academic support and guidance to students., 大學提供個人輔導制度，為學生提供學術支持和指導。
+disciplinary measure, 紀律措施, The school took disciplinary measures against the student for violating the code of conduct., 學校對該學生因違反行為準則採取了紀律措施。
+employees' motivation, 員工激勵, The company focuses on improving employees' motivation through incentives and recognition programs., 公司通過激勳和表彰計劃來提高員工的積極性。
+return-work interview, 回歸工作面試, After a long break, the employee had a return-work interview to discuss the transition back to the office., 休假後，員工進行了回歸工作面試，討論如何順利過渡回辦公室。
+flexible work pattern, 彈性工作模式, Many companies now offer a flexible work pattern to improve employee satisfaction and productivity., 許多公司現在提供彈性工作模式，以提高員工滿意度和生產力。
+automatic gear type, 自動檔類型, The car is equipped with an automatic gear type, making it easier to drive in heavy traffic., 這輛車配有自動檔類型，使在繁忙的交通中開車變得更加輕鬆。
+training courses, 培訓課程, The company offers various training courses to help employees develop new skills and improve their performance., 公司提供各種培訓課程，幫助員工發展新技能並提高工作表現。
+different weather conditions, 不同的天氣條件, The athletes continued to train in different weather conditions, adapting to rain, snow, and heat., 運動員在不同的天氣條件下繼續訓練，適應雨天、雪天和高溫。
+registration fee, 註冊費, A registration fee is required to participate in the conference, which covers access to all events., 參加會議需要繳納註冊費，該費用涵蓋了所有活動的參與費用。
+driving diary, 駕駛日誌, He kept a driving diary to track the distance and conditions of his long road trips., 他保持駕駛日誌，記錄長途旅行的距離和路況。
+wild flower, 野花, The meadow was covered in a variety of wild flowers, adding color to the landscape., 草地上覆蓋著各種野花，為景觀增添了色彩。
+old ruins, 古老遺跡, The old ruins of the castle tell a story of a bygone era and are a popular tourist attraction., 這座古老的城堡遺跡講述著過去的故事，成為了熱門的旅遊景點。
+tour guide, 導遊, The tour guide explained the history of the ancient temple to the group of visitors., 導遊向遊客團解釋了這座古老寺廟的歷史。
+formal language, 正式語言, In academic writing, it is important to use formal language to convey information clearly and professionally., 在學術寫作中，使用正式語言對於清晰且專業地傳達信息至關重要。
+biological activity, 生物活性, The study examined the biological activity of the plant extracts in treating various diseases., 該研究檢測了植物提取物在治療各種疾病中的生物活性。
+local river, 當地河流, The local river provides water for irrigation and recreation in the community., 當地河流為社區提供灌溉和娛樂用水。
+specialised microscope, 專業顯微鏡, A specialised microscope is used to examine the tiny details of cells in biological research., 專業顯微鏡用於檢查生物研究中細胞的微小細節。
+butterfly species, 蝴蝶物種, There are over 20 butterfly species in the region, each with distinct colors and patterns., 該地區有超過20種蝴蝶物種，每種都有不同的顏色和圖案。
+tools for garden, 園藝工具, She used various tools for the garden, such as shovels, rakes, and pruning shears., 她使用各種園藝工具，如鏟子、耙子和修剪剪刀。
+training program, 培訓計劃, The company offers a comprehensive training program to help new employees integrate into their roles., 公司提供一個綜合的培訓計劃，幫助新員工融入他們的職位。
+defects in products, 產品缺陷, The quality control team identified several defects in the products before they were shipped to customers., 質量控制團隊在將產品發送給客戶之前發現了幾個缺陷。
+low salary, 低薪, The employee was dissatisfied with the low salary and decided to look for better opportunities., 員工對低薪感到不滿，決定尋找更好的機會。
+bad surroundings, 不良環境, The factory's bad surroundings made it difficult for workers to focus and perform well., 工廠的不良環境使得工人難以集中精力，表現不佳。
+falling sales, 銷售下滑, The company is concerned about the falling sales and is planning new marketing strategies., 公司對銷售下滑感到擔憂，並計劃推出新的營銷策略。
+upset employees, 不滿的員工, The company held a meeting to address the concerns of the upset employees and find solutions., 公司召開了會議，討論不滿員工的問題並尋找解決方案。
+engine types, 引擎類型, The car manufacturer offers several engine types, including petrol, diesel, and electric options., 汽車製造商提供多種引擎類型，包括汽油、柴油和電動選擇。
+family ticket type, 家庭票類型, The zoo offers a family ticket type that allows two adults and two children to enter at a discounted rate., 動物園提供一種類型的家庭票，讓兩名成人和兩名兒童以折扣價格進入。
+road sign, 路標, The road sign indicated that there was a detour ahead due to construction., 路標顯示前方因施工需要繞行。
+quiz test, 測驗, The teacher gave the students a quiz test at the end of the lesson to check their understanding., 老師在課程結束時給學生們做了測驗，檢查他們的理解程度。
+library books, 圖書館書籍, The library books were cataloged and organized by genre for easy access., 圖書館的書籍按照類別進行編目和整理，方便取閱。
+previous lectures, 之前的講座, The professor reviewed the material from previous lectures to refresh students' memory before the final exam., 教授回顧了之前的講座材料，以便在期末考試前幫助學生複習。
+recycled pens, 回收筆, The office switched to using recycled pens to promote sustainability and reduce waste., 辦公室改用回收筆，以促進可持續發展並減少浪費。
+football fan, 足球迷, He is a passionate football fan who watches every match of his favorite team., 他是一個熱情的足球迷，會觀看他最喜愛的隊伍的每場比賽。
+proposed report, 提議報告, The proposed report will outline the key findings and recommendations from the research study., 提議報告將概述研究研究的主要發現和建議。
+health department, 衛生部門, The health department issued new guidelines for preventing the spread of infectious diseases., 衛生部門發布了新的指南，旨在防止傳染病的蔓延。
+food allergies, 食物過敏, Food allergies can cause severe reactions, so it's important to read ingredient labels carefully., 食物過敏可能會引起嚴重反應，因此仔細閱讀成分標籤是非常重要的。
+random sample, 隨機樣本, A random sample of participants was selected for the survey to ensure accurate representation of the population., 隨機選取了一些參與者進行調查，以確保人口的準確代表性。
+recruitment department, 招聘部門, The recruitment department is responsible for hiring new employees and managing job postings., 招聘部門負責聘用新員工並管理職位公告。
+midnight flights, 午夜航班, Midnight flights are often cheaper, but they may be less convenient for passengers., 午夜航班通常更便宜，但對乘客來說可能不太方便。
+heavy items, 重物, The movers struggled with the heavy items, requiring extra assistance to carry them up the stairs., 搬運工人搬運重物時遇到困難，需要額外幫助才能將它們搬上樓。
+communication skills, 溝通技巧, Good communication skills are essential for effective teamwork and successful business negotiations., 良好的溝通技巧對於有效的團隊合作和成功的商業談判至關重要。
+interview time, 面試時間, The interview time was scheduled for 10 AM, giving the candidate enough time to prepare., 面試時間定在上午10點，給候選人足夠的準備時間。
+witness report, 證人報告, The witness report provided crucial information about the incident that helped the investigators., 證人報告提供了有關事件的重要信息，幫助了調查人員。
+closure inquiry, 結案詢問, The closure inquiry revealed that the issue had been resolved and no further action was needed., 結案詢問顯示問題已經解決，且不需要進一步處理。
+easier access, 更便捷的訪問, The new website design provides easier access to information and services., 新的網站設計提供了更便捷的信息和服務訪問。
+semi-synthesised materials, 半合成材料, Semi-synthesised materials are used in the production of high-performance products like electronics., 半合成材料被用於生產高性能產品，如電子產品。
+staff parking, 員工停車場, The staff parking area is located behind the building to ensure convenient access to the office., 員工停車場位於大樓後面，以確保員工方便停車。
+uneven path, 不平坦的道路, The uneven path made it difficult for the elderly to walk without assistance., 不平坦的道路使得老年人無法在沒有幫助的情況下行走。
+pony riding, 小馬騎行, The children enjoyed pony riding during the outdoor event, with experienced trainers guiding them., 孩子們在戶外活動中享受小馬騎行，經驗豐富的教練指導他們。
+salt concentration, 鹽濃度, The salt concentration in the ocean is approximately 3.5%, which is crucial for marine life., 海洋中的鹽濃度大約為3.5%，這對海洋生物至關重要。
+water quality, 水質, Monitoring water quality is essential to ensure the safety of drinking water and prevent contamination., 監測水質對於確保飲用水的安全和防止污染至關重要。
+water temperature, 水溫, The water temperature in the pool is kept at a comfortable level for swimmers., 游泳池中的水溫保持在舒適的範圍內，適合游泳者。
+chemical level, 化學水平, The chemical level in the water must be checked regularly to ensure it is safe for use., 必須定期檢查水中的化學水平，以確保其安全使用。
+sea floor, 海底, The sea floor is home to a variety of marine species that thrive in its depths., 海底是各種海洋物種的家園，它們在深處繁衍生息。
+background music, 背景音樂, The restaurant played soft background music to create a relaxed and welcoming atmosphere., 餐廳播放輕柔的背景音樂，營造出輕鬆而熱情的氛圍。
+drinks and flowers, 飲品和花卉, The reception included drinks and flowers to welcome the guests in a warm and elegant setting., 接待處提供了飲品和花卉，為賓客營造溫馨而優雅的環境。
+engineer company, 工程公司, The engineer company was responsible for designing the infrastructure for the new highway., 這家工程公司負責設計新高速公路的基礎設施。
+cutting cost, 降低成本, The company is focused on cutting costs by streamlining operations and reducing unnecessary expenses., 公司專注於通過簡化運營和減少不必要的開支來降低成本。
+conservation scheme, 保護計劃, The conservation scheme aims to preserve endangered wildlife and their natural habitats., 保護計劃旨在保護瀕危野生動物及其自然棲息地。
+damp soil, 潮濕的土壤, Damp soil is ideal for growing certain types of mushrooms and other moisture-loving plants., 潮濕的土壤非常適合種植某些類型的蘑菇和其他喜歡潮濕的植物。
+natural gas, 天然氣, Natural gas is used as a cleaner alternative to coal for generating electricity., 天然氣是用來替代煤炭發電的更清潔的能源。
+gas tank, 氣罐, The car's gas tank needs to be refueled before the long road trip., 在長途旅行之前，汽車的氣罐需要加滿燃料。
+trunk load, 行李箱載重, The trunk load of boxes was carefully packed to ensure nothing was damaged during transport., 行李箱載重的箱子被小心打包，以確保運輸過程中沒有損壞。
+marine plants, 海洋植物, Marine plants like seaweed play an essential role in ocean ecosystems by providing oxygen and food., 海洋植物如海藻在海洋生態系統中扮演著重要角色，提供氧氣和食物。
+growth spurts, 生長突增, Children experience growth spurts during their early years, leading to rapid physical changes., 孩子們在早期會經歷生長突增，導致快速的身體變化。
+daily routine, 日常生活, A consistent daily routine helps improve time management and personal productivity., 穩定的日常生活有助於提高時間管理和個人效率。
+career prospect, 職業前景, She is considering further studies to enhance her career prospects in the medical field., 她正在考慮進一步學習，以增強在醫學領域的職業前景。
+simplified language, 簡化語言, The textbook uses simplified language to make complex topics more accessible to students., 該教科書使用簡化語言，使複雜的主題對學生更易理解。
+oral expression, 口語表達, Improving oral expression is important for better communication in both personal and professional settings., 提高口語表達對於在個人和專業場合中更好的溝通非常重要。
+role language, 角色語言, In drama, role language refers to the way characters speak, helping to define their personalities., 在戲劇中，角色語言是指角色說話的方式，有助於界定他們的個性。
+technical errors, 技術錯誤, The software update caused some technical errors, which were quickly fixed by the IT team., 軟件更新引發了一些技術錯誤，這些問題很快被IT團隊修復。
+missed appointment, 錯過的約會, She missed her appointment with the dentist and had to reschedule for next week., 她錯過了與牙醫的約會，必須重新安排下週的時間。
+swimming coach, 游泳教練, The swimming coach worked with the team to improve their stroke technique and endurance., 游泳教練與隊員合作，改進他們的泳姿技巧和耐力。
+problem solving, 問題解決, Effective problem solving involves identifying the issue and finding a practical solution., 有效的問題解決過程包括識別問題並找到實用的解決方案。
+physical condition, 身體狀況, Maintaining a good physical condition is important for overall health and well-being., 維持良好的身體狀況對整體健康和福祉非常重要。
+excellent vision, 優秀視力, He was able to pass the eye exam with excellent vision, which is important for his job as a pilot., 他以優秀的視力通過了視力檢查，這對於他作為飛行員的工作至關重要。
+video clip, 影片片段, The video clip featured highlights from the concert and was shared widely on social media., 這段影片片段展示了音樂會的精彩片段，並在社交媒體上廣泛分享。
+window shade, 窗簾, The window shade blocked out the bright sunlight, creating a more comfortable environment., 窗簾擋住了刺眼的陽光，營造了一個更加舒適的環境。
+electronic cars, 電動車, Electronic cars are becoming more popular as people look for eco-friendly alternatives to gasoline-powered vehicles., 隨著人們尋找環保的汽油車替代品，電動車變得越來越受歡迎。
+glass mirrors, 玻璃鏡, The room was decorated with large glass mirrors that made the space appear bigger., 房間裝飾著大玻璃鏡，讓空間看起來更大。
+lowest carbon emission, 最低碳排放, The company has implemented a strategy to reduce the lowest carbon emission in its manufacturing process., 公司已經實施了減少最低碳排放的策略，優化其生產過程。
+well-equipped suite, 設施齊全的套房, The hotel offers a well-equipped suite with a full kitchen, living room, and two bedrooms., 這家酒店提供設施齊全的套房，擁有完整的廚房、客廳和兩間臥室。
+internet access, 網絡接入, The hotel room includes free internet access to allow guests to stay connected., 酒店房間提供免費的網絡接入，讓客人保持聯繫。
+room upgrade, 升級房間, We received a room upgrade upon arrival, which was a pleasant surprise., 我們在入住時獲得了房間升級，這是一個驚喜。
+cookery book, 烹飪書, She bought a cookery book to try out new recipes and improve her cooking skills., 她買了一本烹飪書，嘗試新食譜並提升烹飪技巧。
+core food discipline, 核心食物紀律, Core food discipline focuses on balanced nutrition and healthy eating habits., 核心食物紀律專注於平衡營養和健康飲食習慣。
+train station, 火車站, The train station was crowded with passengers waiting for their trains to depart., 火車站擠滿了等待列車發車的乘客。
+gold mine, 金礦, The discovery of a gold mine in the region led to an economic boom, attracting many workers., 該地區金礦的發現引發了經濟繁榮，吸引了許多工人。
+heart rate monitor, 心率監測器, The heart rate monitor tracks your pulse during exercise to ensure you are working out at the right intensity., 心率監測器在運動過程中追蹤你的脈搏，確保你在適當的強度下運動。
+archaeological sites, 考古遺址, The archaeologists discovered ancient pottery at the archaeological sites, shedding light on past civilizations., 考古學家在考古遺址中發現了古代陶器，揭示了過去文明的面貌。
+Tomb Raider, 古墓奇兵, Tomb Raider is a popular video game franchise known for its adventurous storylines and action-packed gameplay., 《古墓奇兵》是一個受歡迎的電子遊戲系列，以其冒險故事情節和動作緊張的遊戲方式而聞名。
+cooking process, 烹飪過程, The cooking process involves several steps, including chopping ingredients, heating, and seasoning., 烹飪過程涉及幾個步驟，包括切割食材、加熱和調味。
+healthy choices, 健康選擇, Making healthy choices in your diet can help you maintain a healthy weight and improve your overall well-being., 在飲食中做出健康選擇有助於維持健康的體重並改善整體健康。
+detached house, 獨立住宅, A detached house offers more privacy and space compared to a semi-detached or terraced home., 與半獨立式或排屋相比，獨立住宅提供更多的隱私和空間。
+construction material, 建築材料, The company uses eco-friendly construction materials to reduce its environmental impact., 公司使用環保建築材料來減少其對環境的影響。
+ski resort, 滑雪度假村, The ski resort offers various slopes for skiers of all skill levels, along with cozy lodges for visitors., 滑雪度假村提供適合各種技能水平滑雪者的滑雪道，並為遊客提供舒適的小屋。
+compressed air, 壓縮空氣, The machine operates using compressed air to power its internal components., 該機器使用壓縮空氣來驅動其內部元件。
+cone head, 圓錐形頭, The cone head of the traffic cone makes it highly visible and effective in directing traffic., 交通錐的圓錐形頭部使其在引導交通時非常顯眼且有效。
+bird's nest, 鳥巢, The bird's nest was carefully built with twigs and leaves in the tree's branches., 鳥巢是用樹枝和葉子小心建造的，位於樹的枝幹上。
+wood cover, 木質覆蓋層, The wooden cover of the table gives it a rustic and natural look., 這張桌子的木質覆蓋層使其看起來質樸而自然。
+gas station, 加油站, The gas station was busy, with cars lining up to refuel during the holiday weekend., 加油站非常繁忙，假期周末期間，車輛排隊加油。
+hunting skill, 狩獵技巧, He learned hunting skills from his grandfather, who taught him how to track animals in the forest., 他向爺爺學習狩獵技巧，爺爺教他如何在森林中追蹤動物。
+medical stitches, 醫療縫線, The doctor applied medical stitches to close the wound and prevent infection., 醫生使用醫療縫線將傷口縫合，以防止感染。
+skating boards, 滑板, The children had a great time riding their skating boards down the hill., 孩子們騎著滑板從山坡上滑下來，玩得非常開心。
+delivery type, 配送類型, The company offers various delivery types, including express and standard shipping options., 公司提供多種配送類型，包括快速和標準運送選項。
+postal by mail, 郵寄, The documents were sent by postal mail and should arrive within five business days., 文件通過郵寄發送，應該在五個工作日內到達。
+reading frequency, 閱讀頻率, The study examined the reading frequency of participants to understand their literacy habits., 研究檢視了參與者的閱讀頻率，以了解他們的閱讀習慣。
+double-layer glass, 雙層玻璃, The windows are made with double-layer glass to improve insulation and reduce noise., 這些窗戶是用雙層玻璃製成的，能提高隔熱性並減少噪音。
+leaking pipes, 漏水管, The plumber was called to fix the leaking pipes in the basement., 管道工被叫來修理地下室漏水的管道。
+fishing licenses, 捕魚許可證, Fishing licenses are required to legally fish in most bodies of water, ensuring sustainable practices., 在大多數水域合法捕魚需要捕魚許可證，以確保可持續的做法。
+sound quality, 音質, The sound quality of the speakers was impressive, delivering clear and rich sound throughout the room., 音響的音質令人印象深刻，提供清晰且豐富的聲音遍布整個房間。
+field note, 實地筆記, The researcher wrote field notes during the experiment to document observations and findings., 研究者在實驗過程中寫下實地筆記，記錄觀察和發現。
+museum archives, 博物館檔案, The museum archives contain valuable historical documents and artifacts from past centuries., 博物館檔案包含了來自過去幾個世紀的珍貴歷史文件和文物。
+family relationship, 家庭關係, Strong family relationships provide emotional support and a sense of security., 良好的家庭關係提供情感支持和安全感。
+orientation session, 定向會議, The orientation session helped new employees understand company policies and procedures., 定向會議幫助新員工了解公司的政策和流程。
+lab work, 實驗室工作, The students performed lab work to test the chemical reactions under various conditions., 學生們在實驗室進行工作，測試不同條件下的化學反應。
+good advertising, 良好的廣告, Good advertising can attract a wide range of customers and increase sales significantly., 良好的廣告能吸引廣泛的顧客群並顯著提高銷售。
+ancient mirror, 古老鏡子, The ancient mirror, crafted from polished bronze, was discovered during an excavation., 這面古老的鏡子是用拋光銅製成的，在一次挖掘中被發現。
+coffee table, 咖啡桌, The living room was decorated with a sleek coffee table, perfect for holding drinks and books., 客廳用一張時尚的咖啡桌裝飾，完美地放置飲品和書籍。
+collection time, 收藏時間, The collection time for the recycling bins is scheduled for every Thursday morning., 回收箱的收集時間定於每週四早上。
+side door, 側門, The side door of the building is used as an emergency exit during drills., 大樓的側門在演習期間作為緊急出口使用。
+traditional definition, 傳統定義, The traditional definition of democracy emphasizes participation, equality, and freedom of expression., 民主的傳統定義強調參與、平等和言論自由。
+current position, 當前職位, She is currently in a managerial position, overseeing a team of 20 employees., 她目前擔任管理職位，負責監督20名員工。
+car wash, 洗車, The car wash offers both interior and exterior cleaning services to keep your vehicle spotless., 這家洗車店提供內外清潔服務，讓您的車輛保持潔淨。
+annual fee, 年費, The annual fee for the membership includes access to all facilities and special events., 會員的年費包括所有設施和特別活動的使用權。
+fund raising, 籌款, The organization held a fundraising event to support local charities and community projects., 該組織舉辦了一個籌款活動，支持當地慈善機構和社區項目。
+bank account, 銀行賬戶, She opened a new bank account to manage her savings and make regular transactions., 她開了一個新銀行賬戶，以管理她的儲蓄並進行定期交易。
+self assessment, 自我評估, Self-assessment allows employees to reflect on their strengths and areas for improvement., 自我評估讓員工反思自己的優勢和改進的空間。
+weekly assignments, 每週作業, The teacher assigns weekly assignments to reinforce the concepts learned in class., 老師每週布置作業來鞏固課堂上學到的概念。
+bright clothes, 明亮的衣服, She wore bright clothes to the party to stand out and attract attention., 她穿著明亮的衣服參加派對，讓自己在人群中脫穎而出。
+oral presentation, 口頭報告, The students prepared an oral presentation on climate change to present at the conference., 學生們準備了一個有關氣候變化的口頭報告，在會議上進行展示。
+specialised expert, 專業專家, The specialized expert was called in to provide advice on improving the company’s cybersecurity system., 專業專家被請來為公司改善網絡安全系統提供建議。
+peak season, 高峰季節, The resort is busiest during the peak season, with tourists flocking to enjoy the holidays., 度假村在高峰季節最為繁忙，遊客蜂擁而至享受假期。
+countryside living, 田園生活, Countryside living offers peace and tranquility, with a slower pace and beautiful landscapes., 田園生活提供寧靜與平和，擁有較慢的生活節奏和美麗的風景。
+exotic species, 異國物種, The park introduced exotic species of plants to create a more diverse and vibrant environment., 公園引進了異國植物物種，創造出更多樣化和充滿活力的環境。
+aerial photographs, 空中攝影, Aerial photographs were used to survey the land and map out the construction site., 空中攝影被用來勘察土地並繪製建設工地的地圖。
+language barriers, 語言障礙, Language barriers can make it difficult to communicate effectively in international business settings., 語言障礙可能會使在國際商務環境中有效溝通變得困難。
+gold coast, 黃金海岸, The Gold Coast is known for its beautiful beaches, luxurious resorts, and vibrant nightlife., 黃金海岸以其美麗的海灘、奢華的度假村和充滿活力的夜生活而聞名。
+ice rink, 冰場, The ice rink is open year-round for skating enthusiasts, offering rentals and lessons for all levels., 這個冰場全年開放，為滑冰愛好者提供租賃和各個級別的課程。
+horsehair, 馬毛, The antique brush was made with soft horsehair, which is perfect for delicate cleaning tasks., 這把古董刷子是用柔軟的馬毛製成，非常適合細緻的清潔工作。
+modern usage, 現代用法, The modern usage of smartphones has revolutionized the way people communicate and work., 智能手機的現代用法徹底改變了人們的溝通和工作方式。
+medical applications, 醫學應用, New advancements in technology have led to numerous medical applications, improving patient care., 技術的最新進展帶來了許多醫學應用，改善了病人的護理質量。
+Persian dye, 波斯染料, Persian dye, known for its vibrant colors, is still used in textiles today., 波斯染料以其鮮豔的顏色而著名，今天仍在紡織品中使用。
+bird park, 鳥類公園, The bird park features a wide variety of species from all over the world, providing an educational experience., 鳥類公園展示了來自世界各地的各種物種，提供了教育性的體驗。
+bus tour, 巴士遊, The bus tour around the city covers all the major landmarks, allowing tourists to see everything in a day., 這個城市的巴士遊覽涵蓋了所有主要地標，讓遊客在一天內看到所有景點。
+budget activity, 預算活動, The charity event is designed as a budget activity, making it affordable for all attendees., 這個慈善活動被設計為預算活動，讓所有參與者都能負擔得起。
+guided walking tour, 導覽步行遊, A guided walking tour through the historic district will give you insights into the city’s rich culture., 透過歷史區的導覽步行遊，您將了解該市豐富的文化。
+special ingredients, 特別食材, The chef uses special ingredients to create unique dishes that are not found elsewhere., 廚師使用特別的食材來創作獨一無二的菜肴，這些菜肴在其他地方無法找到。
+bumble bee, 大黃蜂, The bumble bee is an important pollinator, helping to fertilize flowers and plants in gardens., 大黃蜂是重要的傳粉者，幫助花卉和植物在花園中授粉。
+research fund, 研究資金, The research fund was allocated to support innovative projects in renewable energy., 研究資金被分配用於支持可再生能源領域的創新項目。
+extensive educational activities, 廣泛的教育活動, The school offers extensive educational activities, including after-school programs and field trips., 學校提供廣泛的教育活動，包括課後項目和實地考察。
+current subject, 當前科目, The current subject we are studying in biology is genetics and inheritance., 我們當前學習的生物學科目是遺傳學和遺傳。
+water fee, 水費, The water fee is calculated based on the amount of water used in the household each month., 水費是根據每月家庭使用的水量來計算的。
+soil samples, 土壤樣本, The researchers collected soil samples from different areas to analyze the nutrient levels., 研究人員收集了來自不同地區的土壤樣本，以分析營養水平。
+beach liens, 海灘負擔, The hotel has beach liens that offer exclusive access to a private section of the shoreline., 這家酒店擁有海灘負擔，提供專屬進入海灘一段私人區域的權利。
+famous concert, 著名音樂會, The famous concert in the park attracted thousands of music lovers from all over the country., 公園裡的著名音樂會吸引了來自全國各地的數千名音樂愛好者。
+nomad clothing, 游牧民族服裝, Nomad clothing is designed for comfort and practicality, allowing for easy movement in various climates., 游牧民族服裝設計注重舒適和實用，便於在各種氣候中自由活動。
+global products, 全球產品, The company exports its global products to over 50 countries, making them accessible to international customers., 該公司將其全球產品出口到50多個國家，讓國際顧客可以輕鬆購得。
+local demand, 當地需求, The restaurant has adjusted its menu to meet local demand for vegetarian options., 該餐廳調整了菜單，以滿足當地對素食選項的需求。
+management strategies, 管理策略, The company’s management strategies focus on innovation, customer satisfaction, and sustainable growth., 該公司的管理策略聚焦於創新、顧客滿意度和可持續增長。
+global management, 全球管理, The multinational company employs global management practices to ensure consistency across its branches., 這家跨國公司採用了全球管理實踐，以確保各分支機構的一致性。
+shell and nail, 貝殼和指甲, The artisan decorated the picture frame with shell and nail accents to give it a beach-inspired look., 工匠用貝殼和指甲裝飾了相框，賦予它海灘風格的外觀。
+food environment, 食物環境, The food environment in urban areas has shifted towards healthier options in recent years., 近年來，城市地區的食物環境轉向了更健康的選擇。
+cost of fuel, 燃料費用, The cost of fuel has risen sharply, impacting the prices of transportation and goods., 燃料費用急劇上漲，影響了交通和商品的價格。
+car club, 汽車俱樂部, He joined a car club to meet other enthusiasts and share his passion for automobiles., 他加入了汽車俱樂部，與其他愛好者交流並分享他對汽車的熱情。
+lemon and orange, 檸檬和橙子, Lemon and orange are often used together in cooking to create a tangy and refreshing flavor., 檸檬和橙子常用於烹飪，創造出酸爽且清新的味道。
+costume party, 化裝舞會, The costume party was a big success, with guests dressing up in creative and funny outfits., 化裝舞會非常成功，賓客們穿著創意十足和有趣的服裝。
+photograph exhibition, 攝影展, The photograph exhibition featured stunning images of nature and wildlife from around the world., 攝影展展示了來自世界各地的自然和野生動物的驚人影像。
+career perspective, 職業視角, Gaining a broader career perspective can help you make more informed decisions about your professional future., 擁有更廣泛的職業視角可以幫助你對未來的職業做出更明智的決策。
+sales technology, 銷售技術, The company is investing in new sales technology to streamline processes and improve customer interactions., 公司正在投資新的銷售技術，以簡化流程並改善與客戶的互動。
+medical purpose, 醫療用途, The drug was developed for medical purposes, helping patients manage their symptoms more effectively., 這種藥物是為醫療用途開發的，有助於患者更有效地控制症狀。
+special advice, 特別建議, The consultant provided special advice on how to handle the business’s financial difficulties., 顧問提供了如何處理公司財務困難的特別建議。
+outdoor programs, 戶外活動計劃, The school offers outdoor programs such as hiking, camping, and environmental education., 學校提供如遠足、露營和環境教育等戶外活動計劃。
+free caring, 免費照護, The organization provides free caring services for elderly residents who need assistance with daily activities., 該機構為需要幫助日常活動的老年居民提供免費照護服務。
+extra income, 額外收入, Many people take on part-time jobs to earn extra income and support their families., 許多人從事兼職工作以賺取額外收入並支持家庭。
+dramatic effect, 戲劇性效果, The lighting added a dramatic effect to the scene, making it more suspenseful and engaging., 照明為場景增添了戲劇性效果，使其更具懸疑感和吸引力。
+salt trade, 鹽貿易, The salt trade was a significant part of ancient economies, especially in regions without natural salt sources., 鹽貿易在古代經濟中佔有重要地位，特別是在沒有天然鹽源的地區。
+missed work, 錯過的工作, He had to make up for the missed work due to his absence last week., 他需要補上上週缺席所錯過的工作。
+external factors, 外部因素, External factors such as weather and market conditions can impact the success of the project., 外部因素如天氣和市場條件可能影響項目的成功。
+vocational course, 職業課程, She enrolled in a vocational course to gain specific skills and improve her job prospects., 她報名參加了一門職業課程，以獲得具體技能並改善她的就業前景。
+working hours, 工作時間, The company has flexible working hours, allowing employees to choose their preferred shifts., 公司有靈活的工作時間，員工可以選擇自己喜歡的班次。
+specific domestic work, 特定的家務工作, Specific domestic work includes tasks like cleaning, cooking, and laundry, which can vary depending on household needs., 特定的家務工作包括如清潔、烹飪和洗衣等任務，這些會根據家庭需求而有所不同。
+unfurnished apartment, 無家具公寓, The unfurnished apartment offers the flexibility for tenants to decorate the space according to their own taste., 無家具公寓提供了靈活性，租戶可以根據自己的品味裝飾空間。
+upper level, 上層, The office on the upper level offers a better view of the city and more natural light., 上層的辦公室提供更好的城市景觀和更多的自然光。
+modern language, 現代語言, Modern language programs focus on both the practical and cultural aspects of communication in today’s world., 現代語言課程著重於當今世界中交流的實用性和文化方面。
+resources room, 資源室, The resources room in the library provides access to books, computers, and study materials for students., 圖書館的資源室提供書籍、電腦和學習資料供學生使用。
+Law Department, 法律部門, The Law Department offers a range of courses that prepare students for careers in legal practice., 法律部門提供多種課程，為學生準備從事法律實務的職業。
+cautious languages, 謹慎的語言, He used cautious language when discussing sensitive topics to avoid offending anyone., 他在討論敏感話題時使用了謹慎的語言，以避免冒犯任何人。
+causes and effects, 原因與結果, Understanding the causes and effects of climate change is essential for creating effective environmental policies., 理解氣候變化的原因與結果對於制定有效的環境政策至關重要。
+scientific evidence, 科學證據, The research provided solid scientific evidence supporting the link between pollution and health problems., 該研究提供了有力的科學證據，支持污染與健康問題之間的聯繫。
+New Year's Day, 元旦, New Year’s Day is celebrated with fireworks, parties, and family gatherings all over the world., 元旦在全球範圍內慶祝，人們用煙火、派對和家庭聚會來慶祝。
+historical fans, 歷史迷, The museum’s collection is a favorite among historical fans who are fascinated by ancient artifacts., 這家博物館的收藏對歷史迷來說特別受歡迎，他們對古代文物非常著迷。
+cuisine festivals, 美食節, The city hosts several cuisine festivals each year, where food lovers can sample dishes from different cultures., 這座城市每年舉辦幾個美食節，食物愛好者可以品嚐來自不同文化的菜肴。
+international chef, 國際廚師, The international chef was invited to demonstrate cooking techniques at the food festival., 這位國際廚師被邀請在美食節上展示烹飪技巧。
+multimedia materials, 多媒體資料, The teacher used multimedia materials to enhance the lesson and engage students with visual and auditory elements., 老師使用了多媒體資料來增強課程效果，並用視覺和聽覺元素吸引學生。
+locomotive engines, 機車引擎, Locomotive engines have evolved over the years, from steam-powered to modern diesel-electric models., 機車引擎多年来经历了演变，从蒸汽动力到现代的柴油电力机车。
+uniform costume, 制服服裝, The party organizers asked everyone to wear a uniform costume to create a theme for the event., 派對組織者要求每個人穿上制服服裝，為活動創造一個主題。
+voting ages, 投票年齡, The voting age in most countries is 18, allowing young adults to participate in democratic processes., 在大多數國家，投票年齡為18歲，讓年輕成年人參與民主過程。
+plate safety shield, 鐘罩安全盾, The plate safety shield prevents hot dishes from spilling while being served, ensuring safety in the kitchen., 這個鐘罩安全盾可以防止熱盤在上菜時溢出，確保廚房安全。
+grain shatter, 穀粒碎裂, The machine was designed to minimize grain shatter during the harvesting process, preserving the quality of the crops., 這台機器被設計用來最小化收割過程中的穀粒碎裂，保持作物的品質。
+chemical compound, 化學化合物, Water is a chemical compound made up of two hydrogen atoms and one oxygen atom., 水是一種化學化合物，由兩個氫原子和一個氧原子組成。
+fossil fuels, 化石燃料, Fossil fuels like coal, oil, and natural gas are major sources of energy, but they contribute to environmental pollution., 化石燃料如煤炭、石油和天然氣是主要的能源來源，但它們也對環境污染造成影響。
+human activities, 人類活動, Human activities such as deforestation and industrialization have a significant impact on the environment., 人類活動如砍伐森林和工業化對環境有著顯著影響。
+blood system, 血液系統, The blood system is responsible for transporting oxygen, nutrients, and waste products throughout the body., 血液系統負責將氧氣、營養物質和廢物運送到全身。
+business management, 商業管理, Business management involves overseeing the operations of a company and making strategic decisions., 商業管理涉及監督公司運營並做出戰略決策。
+phone interviews, 電話面試, Phone interviews are often conducted as an initial step in the hiring process to screen candidates., 電話面試通常作為招聘過程的初步步驟，用來篩選候選人。
+public sectors, 公共部門, The public sectors of government are responsible for delivering services such as education, healthcare, and infrastructure., 政府的公共部門負責提供教育、醫療和基礎設施等服務。
+essay writing, 論文寫作, Essay writing requires critical thinking and the ability to present ideas clearly and coherently., 論文寫作需要批判性思維及清晰和條理地表達想法的能力。
+global roaming service, 全球漫遊服務, The mobile carrier offers a global roaming service, allowing customers to use their phones abroad without extra charges., 該移動運營商提供全球漫遊服務，讓客戶在國外使用手機時不會產生額外費用。
+forest valley campsite, 森林谷露營地, The forest valley campsite offers beautiful views and a peaceful environment for nature lovers., 森林谷露營地提供美麗的景色和寧靜的環境，適合熱愛大自然的人。
+currency problem, 貨幣問題, The country is facing a currency problem, leading to inflation and a decrease in purchasing power., 該國面臨貨幣問題，導致通脹和購買力下降。
+insufficient banknote, 銀行票據不足, There was an issue with insufficient banknotes at the ATM, causing delays in withdrawals., ATM上出現了銀行票據不足的問題，導致提款延遲。
+cave entrances, 洞穴入口, The cave entrances were covered with vines, making it difficult to find the path inside., 洞穴入口被藤蔓覆蓋，讓人難以找到通往洞內的路徑。
+transition zone caves, 轉換區洞穴, Transition zone caves are unique ecosystems where different species coexist due to varying environmental conditions., 轉換區洞穴是獨特的生態系統，不同物種因為環境條件的變化而共存。
+colour blind, 色盲, The colour blind often have difficulty distinguishing between certain colors, such as red and green., 色盲的人常常難以區分某些顏色，如紅色和綠色。
+small taxi hiring, 小型出租車租賃, Small taxi hiring is a popular option for short trips around the city due to its affordability and convenience., 小型出租車租賃是城市短途旅行的熱門選擇，因為它經濟實惠且方便。
+organic food vegetable, 有機蔬菜, Organic food vegetables are grown without synthetic pesticides and fertilizers, making them a healthier option., 有機蔬菜不使用合成農藥和化肥，這使得它們成為更健康的選擇。
+overseas expansion opportunities, 海外擴張機會, The company is looking into overseas expansion opportunities to increase its global market share., 該公司正在尋找海外擴張機會，以增加其全球市場份額。
+order contract, 訂單合同, The order contract outlines the terms and conditions for purchasing goods from the supplier., 訂單合同概述了從供應商處購買商品的條款和條件。
+dance course, 舞蹈課程, She enrolled in a dance course to improve her skills and prepare for the upcoming performance., 她報名參加了舞蹈課程，以提高她的技巧並為即將到來的表演做準備。
+legal legislation, 法律立法, Legal legislation regarding online privacy has become stricter to protect personal data., 關於線上隱私的法律立法變得更加嚴格，以保護個人資料。
+clear structure, 清晰結構, The report presented a clear structure, with each section logically flowing into the next., 報告展示了清晰的結構，每個部分都邏輯性地過渡到下一部分。
+regular exercises, 定期鍛煉, Regular exercises are essential for maintaining good health and improving physical fitness., 定期鍛煉對維持良好的健康和提高身體素質至關重要。
+theoretical dialogue, 理論對話, The conference featured a theoretical dialogue on the future of artificial intelligence in education., 會議上進行了一場關於人工智慧在教育未來發展的理論對話。
+cinema versions, 電影院版本, The cinema versions of the movies often differ from the original book adaptations, offering more action and visual effects., 電影院版本的電影通常與原著改編不同，提供更多的動作和視覺效果。
+performance script, 表演劇本, The actors rehearsed the performance script every day to ensure a flawless show., 演員們每天排練表演劇本，以確保演出無懈可擊。
+warning signs, 警告標誌, Warning signs were placed along the trail to inform hikers about potential hazards., 警告標誌被放置在小徑旁，提醒徒步旅行者注意潛在的危險。
+traffic circulation, 交通流通, The city implemented new traffic circulation measures to reduce congestion during rush hour., 該市實施了新的交通流通措施，以減少高峰時段的擁堵。
+legal requirement, 法律要求, It is a legal requirement for all businesses to comply with health and safety regulations., 所有企業必須遵守健康和安全法規，這是法律要求。
+national holiday, 國定假日, National holiday celebrations include parades, fireworks, and family gatherings., 國定假日的慶祝活動包括遊行、煙火和家庭聚會。
+photography record, 攝影記錄, The photography record of the event captured the most memorable moments, which were shared online., 該活動的攝影記錄捕捉了最難忘的時刻，並在線上分享。
+refreshment and souvenir, 點心和紀念品, Guests were offered refreshment and souvenir bags as a token of appreciation for attending the event., 賓客們獲得了點心和紀念品袋，作為感謝他們參加活動的禮物。
+avenue of flags, 旗幟大道, The avenue of flags was lined with colorful banners representing different countries, creating a festive atmosphere., 旗幟大道兩側懸掛著代表不同國家的彩色旗幟，營造出節日氣氛。
+diploma course, 文憑課程, He completed a diploma course in graphic design to enhance his career prospects in the creative industry., 他完成了平面設計的文憑課程，以增強他在創意行業的職業前景。
+occupational therapy, 職業治療, Occupational therapy helps individuals regain the skills needed for daily living and work after an injury or illness., 職業治療幫助個人在受傷或生病後恢復日常生活和工作的所需技能。
+ancient shells, 古代貝殼, The ancient shells found in the archaeological site provide insights into the diets and activities of past civilizations., 在考古遺址發現的古代貝殼為我們了解過去文明的飲食和活動提供了線索。
+evidence of currency, 貨幣證據, The discovery of ancient coins in the ruins provides evidence of the use of currency in early trade systems., 在廢墟中發現的古代硬幣提供了早期貿易系統中使用貨幣的證據。
+brick making, 造磚, The traditional method of brick making involves mixing clay with water and shaping it into bricks before firing them in a kiln., 傳統的造磚方法包括將黏土與水混合，並將其塑造成磚塊，然後放入窯中燒製。
+Roman invasion, 羅馬入侵, The Roman invasion of Britain in 43 AD marked the beginning of nearly four centuries of Roman rule., 公元43年羅馬入侵不列顛，標誌著羅馬統治近四個世紀的開始。
+Roman coins, 羅馬硬幣, Roman coins discovered in the excavation site provide valuable insights into the economy of the Roman Empire., 在挖掘現場發現的羅馬硬幣為我們了解羅馬帝國的經濟提供了寶貴的線索。
+garden materials, 花園材料, The store offers a variety of garden materials, including soil, plants, and decorative stones., 該商店提供各種花園材料，包括土壤、植物和裝飾石。
+camp tent, 露營帳篷, The camp tent was large enough to fit six people comfortably, providing shelter for the weekend trip., 露營帳篷足夠大，可以舒適地容納六個人，為周末旅行提供庇護。
+salt tablet, 鹽片, The hikers took salt tablets to replenish the sodium lost during their long trek through the desert., 徒步旅行者服用了鹽片，補充在穿越沙漠時失去的鈉。
+snack kit, 小吃套件, The snack kit included a variety of nuts, dried fruits, and energy bars for the road trip., 小吃套件包含了各種堅果、乾果和能量棒，適合長途旅行。
+healthy diet, 健康飲食, A healthy diet rich in fruits, vegetables, and whole grains is essential for maintaining good health., 富含水果、蔬菜和全穀物的健康飲食對保持良好的健康至關重要。
+camping information, 露營信息, The website provides detailed camping information, including locations, amenities, and tips for beginners., 網站提供詳細的露營信息，包括地點、設施和初學者的建議。
+department stores, 百貨商店, The department stores in the city center offer a wide range of products, from clothing to electronics., 市中心的百貨商店提供從服裝到電子產品的各種商品。
+public transport, 公共交通, Public transport is the most affordable way to get around the city, with buses, trams, and trains available., 公共交通是最經濟實惠的城市出行方式，提供公交車、有軌電車和火車服務。
+summer clother, 夏季衣物, The store offers a wide selection of summer clothing, including light dresses, shorts, and T-shirts., 該店提供各種夏季衣物，包括輕便的連衣裙、短褲和T恤。
+discount card, 折扣卡, With the discount card, customers can save up to 20% on select items at participating stores., 使用折扣卡，顧客可以在參與的商店上選定商品節省最多20%的費用。
+wing bones, 翼骨, The wing bones of the bird were carefully preserved in the museum as part of an exhibit on avian anatomy., 這隻鳥的翼骨在博物館中被小心保存，作為鳥類解剖展覽的一部分。
+animal competition, 動物競賽, The animal competition at the fair showcased different breeds of dogs, cats, and horses., 博覽會上的動物競賽展示了不同品種的狗、貓和馬。
+coastal moa, 沿海猛禽, The coastal moa was a large bird species that once lived along the coastlines of New Zealand., 沿海猛禽是曾經生活在新西蘭海岸線上的大型鳥類物種。
+stout-legged moa, 魯莽腿猛禽, The stout-legged moa was known for its powerful legs, which allowed it to run swiftly across the plains., 魯莽腿猛禽因其強壯的雙腿而聞名，使它能在平原上迅速奔跑。
+high protection, 高保護, The high protection of the device ensures that it can withstand extreme temperatures and rough handling., 該設備的高保護設計確保其能夠承受極端溫度和粗暴的處理。
+body fluids, 體液, Medical professionals must be careful when handling body fluids to prevent the transmission of diseases., 醫護人員在處理體液時必須小心，以防止疾病傳播。
+kidney problems, 腎臟問題, Kidney problems can be caused by factors such as dehydration, high blood pressure, and diabetes., 腎臟問題可能由脫水、高血壓和糖尿病等因素引起。
+information display, 信息顯示, The information display at the airport provides real-time updates on flight schedules and gate information., 機場的信息顯示提供有關航班時間表和登機口的實時更新。
+case management, 案例管理, Case management involves coordinating care and services for individuals with complex health needs., 案例管理涉及協調對於健康需求複雜的個體的護理和服務。
+original vacuum problem, 原始真空問題, The original vacuum problem was identified during testing and was resolved by the engineering team., 原始真空問題在測試中被識別，並由工程團隊解決。
+wild animal population, 野生動物種群, The wild animal population in the region has decreased significantly due to habitat destruction and poaching., 由於棲息地破壞和偷獵，該地區的野生動物種群已大幅減少。
+reusable bag, 可重複使用的袋子, Many stores now offer reusable bags to encourage customers to reduce plastic waste., 許多商店現在提供可重複使用的袋子，鼓勵顧客減少塑料垃圾。
+free repair, 免費維修, The store offers free repair services for products that are under warranty., 該商店提供對保修期內產品的免費維修服務。
+entry level, 入門級, The job requires entry-level experience, ideal for recent graduates or those new to the industry., 這份工作要求入門級經驗，適合應屆畢業生或行業新手。
+transportation cost, 交通費用, The company will reimburse employees for transportation costs incurred during business travel., 公司將報銷員工在商務旅行中產生的交通費用。
+choice of modules, 模塊選擇, The course offers a wide choice of modules, allowing students to specialize in areas of interest., 該課程提供廣泛的模塊選擇，讓學生能夠在感興趣的領域專攻。
+sustainable planting process, 可持續種植過程, The farm follows a sustainable planting process that minimizes the use of pesticides and conserves water., 這個農場遵循可持續的種植過程，最小化農藥的使用並節約水資源。
+labour cost, 勞動成本, Labour costs are a significant factor in determining the overall profitability of manufacturing companies., 勞動成本是決定製造公司整體盈利能力的重要因素。
+maintenance equipment, 維護設備, The maintenance equipment includes tools for cleaning, repairing, and maintaining the facility’s machinery., 維護設備包括用於清潔、修理和維護設施機械的工具。
+triangle shaped, 三角形, The building’s roof is triangle shaped, giving it a unique and modern look., 這棟建築的屋頂是三角形的，賦予它獨特而現代的外觀。
+night club, 夜總會, The night club was packed with people enjoying the DJ’s performance and dancing until dawn., 夜總會擠滿了享受DJ表演的人們，一直到黎明都在跳舞。
+taster sessions, 試聽課程, The university offers taster sessions for prospective students to experience different subjects before enrolling., 大學提供試聽課程，讓未來的學生在報名之前體驗不同的學科。
+safety skills, 安全技能, Safety skills are essential for workers in hazardous environments to prevent accidents and injuries., 安全技能對於在危險環境中的工人來說至關重要，有助於防止事故和受傷。
+group sessions, 小組課程, The therapist conducts group sessions to allow patients to share experiences and learn from each other., 治療師主持小組課程，讓病人分享經歷並互相學習。
+climbing course, 攀岩課程, The climbing course teaches participants the fundamentals of rock climbing, including safety techniques., 攀岩課程教授參與者攀岩的基本知識，包括安全技巧。
+tented accommodation, 帳篷住宿, The campsite provides tented accommodation for campers who prefer a more rustic experience., 這個露營地提供帳篷住宿，適合那些偏好更樸素體驗的露營者。
+skeleton coast, 骸骨海岸, The Skeleton Coast is known for its dramatic landscape and the remains of shipwrecks along its shores., 骸骨海岸以其壯觀的景觀和海岸上船難的遺骸而聞名。
+target readers, 目標讀者, The magazine is designed to appeal to target readers who are interested in fashion and lifestyle trends., 這本雜誌旨在吸引對時尚和生活方式趨勢感興趣的目標讀者。
+previous reports, 先前報告, The previous reports highlighted key issues that need to be addressed in the upcoming strategy meeting., 先前的報告突出了需要在即將召開的戰略會議上解決的關鍵問題。
+purpose of essay, 論文目的, The purpose of the essay is to analyze the impact of social media on modern communication., 這篇論文的目的是分析社交媒體對現代交流的影響。
+relevant materials, 相關資料, The librarian provided the relevant materials for the research, including books, articles, and journals., 圖書館員提供了研究所需的相關資料，包括書籍、文章和期刊。
+boiled water, 煮沸水, Boiled water is often used in cooking and preparing beverages to ensure it is safe for consumption., 煮沸水常用於烹飪和準備飲品，以確保其適合食用。
+health international, 健康國際, Health International is a global organization that provides healthcare solutions and promotes public health initiatives., 健康國際是一個全球性組織，提供醫療解決方案並推動公共衛生計劃。
+maximum output, 最大輸出, The factory is running at maximum output to meet the increased demand for products., 該工廠正在以最大輸出運行，以應對產品需求的增加。
+shared time, 共享時間, The team agreed to allocate shared time for collaboration on the new project, ensuring everyone contributes their ideas., 團隊同意分配共享時間，協作開展新項目，確保每個人都能貢獻自己的想法。
+basic cover, 基本保障, The insurance policy offers basic cover for medical emergencies and accidents., 該保險計劃提供基本的醫療緊急情況和意外保障。
+global listening strategy, 全球聽力策略, The school developed a global listening strategy to help students improve their comprehension of different accents and dialects., 學校制定了全球聽力策略，幫助學生提高對不同口音和方言的理解。
+note-taking skills, 記錄技巧, Note-taking skills are important for retaining information during lectures and study sessions., 記錄技巧對於在課堂和學習會議中保持信息非常重要。
+eye contact, 眼神交流, Maintaining eye contact during conversations helps establish trust and improves communication., 在交談中保持眼神交流有助於建立信任並改善溝通。
+pressure heat, 壓力熱, Pressure heat is used in industrial processes to efficiently transfer heat in a controlled manner., 壓力熱用於工業過程中，有效地以受控方式轉移熱量。
+intermediate stage, 中間階段, The project has reached the intermediate stage, where testing and adjustments are being made before the final release., 項目已經進入中間階段，目前正在進行測試和調整，然後再進行最終發布。
+a great variety of, 各種各樣的, The store offers a great variety of products, including clothing, electronics, and home goods., 該商店提供各種各樣的產品，包括服裝、電子產品和家居用品。
+a balanced diet, 均衡飲食, A balanced diet includes a variety of foods from all the food groups to ensure proper nutrition., 均衡飲食包括來自所有食物組的多種食物，以確保適當的營養。
+a couple of, 幾個, He had a couple of questions about the project and asked the manager for clarification., 他對該項目有幾個問題，並請經理進行澄清。
+a pair of glasses, 一副眼鏡, She bought a new pair of glasses with a stylish frame to improve her vision., 她買了一副新眼鏡，框架時尚，改善了她的視力。
+a period of time, 一段時間, The research was conducted over a period of time to observe changes and trends., 這項研究在一段時間內進行，以觀察變化和趨勢。
+A plus, 優點, Having experience with multiple programming languages is definitely an A plus in the tech industry., 擁有多種編程語言經驗無疑是科技行業中的一大優勢。
+a series of, 一系列, The book is part of a series of novels set in a dystopian future., 這本書是設定在反烏托邦未來的小說系列的一部分。
+a serious person, 一個認真嚴肅的人, He is a serious person who approaches his work with dedication and commitment., 他是個認真嚴肅的人，對待工作充滿奉獻和承諾。
+a sharp turn, 急轉彎, The car took a sharp turn at high speed, causing the passengers to be thrown forward., 車子以高速急轉彎，導致乘客被甩向前方。
+abilities, 能力, His abilities in problem-solving and critical thinking made him a valuable asset to the team., 他在解決問題和批判性思維方面的能力使他成為團隊的寶貴資產。
+academic English, 學術英語, Academic English is essential for writing research papers and participating in university-level discussions., 學術英語對於撰寫研究論文和參與大學層次的討論至關重要。
+academic problems, 學術問題, Many students face academic problems such as time management, writing assignments, and preparing for exams., 許多學生面臨學術問題，如時間管理、寫作作業和考試準備。
+academic system, 學術系統, The academic system at this university emphasizes research, critical thinking, and interdisciplinary learning., 該大學的學術系統強調研究、批判性思維和跨學科學習。
+academic teaching staff, 學術教學人員, The academic teaching staff at the university is composed of experienced professors and researchers from various fields., 該大學的學術教學人員由來自各個領域的經驗豐富的教授和研究員組成。
+accommodation expense, 住宿費, The accommodation expense for the trip was covered by the company as part of the employee’s benefits., 這次旅行的住宿費由公司負擔，作為員工福利的一部分。
+accommodation fee, 住宿費用, The accommodation fee for the hotel was quite high, but the services and facilities were excellent., 酒店的住宿費用相當高，但服務和設施都非常出色。
+accommodation form, 住宿表格, Please fill out the accommodation form before booking your stay at the hotel., 請在預訂酒店住宿之前填寫住宿表格。
+accountants, 會計師, The accountants are responsible for managing the financial records and ensuring compliance with tax regulations., 會計師負責管理財務記錄並確保遵守稅務法規。
+added panic, 增加的恐慌, The sudden announcement of a delay added panic to the already stressful situation., 突然宣布的延遲增加了原本已經充滿壓力的情況中的恐慌。
+admission card, 入場卡, You will need an admission card to enter the concert venue, which can be obtained online., 進入音樂會場地需要入場卡，可以在線獲得。
+admission office, 入學辦公室, The admission office handles all applications and provides information about the enrollment process., 入學辦公室負責處理所有申請並提供有關入學過程的資訊。
+adult students, 成人學生, Adult students often face unique challenges balancing work, family, and education., 成人學生通常面臨平衡工作、家庭和學業的獨特挑戰。
+advanced course, 進階課程, The advanced course in chemistry covers more complex topics such as molecular biology and organic chemistry., 這門化學進階課程涵蓋了更複雜的主題，如分子生物學和有機化學。
+advanced degree, 進階學位, An advanced degree in medicine or engineering can open up higher-paying job opportunities., 醫學或工程領域的進階學位可以打開更高薪的工作機會。
+Advanced English Studies, 高級英語學習, The Advanced English Studies program focuses on improving language proficiency through literature and academic writing., 高級英語學習課程通過文學和學術寫作來提高語言能力。
+agrarian reform, 農業改革, Agrarian reform aims to redistribute land more equitably and improve the livelihoods of rural farmers., 農業改革旨在更公平地重新分配土地並改善農村農民的生計。
+ahead of time, 提前, The meeting was scheduled ahead of time to accommodate everyone's availability., 會議提前安排，以配合每個人的時間安排。
+aim of lecture, 講座目標, The aim of the lecture is to provide an understanding of global economic trends and their impact on local businesses., 講座的目標是提供對全球經濟趨勢及其對本地企業影響的理解。
+aims, 目標, The aims of the project include improving infrastructure and increasing access to education., 該項目的目標包括改善基礎設施並增加教育的可及性。
+air pollution, 空氣污染, Air pollution is a serious issue in urban areas, leading to health problems and environmental damage., 空氣污染是城市地區的一個嚴重問題，導致健康問題和環境損害。
+air pump, 空氣泵, The air pump is used to inflate the tires of the car before the road trip., 空氣泵用來在長途旅行前充氣汽車輪胎。
+air shuttle bus, 空氣穿梭巴士, The air shuttle bus transports passengers from the airport terminal to the parking lot every 15 minutes., 空氣穿梭巴士每15分鐘從機場航站樓運送乘客到停車場。
+air conditioner, 空調, The air conditioner kept the room cool during the hot summer days., 空調在炎熱的夏季保持房間涼爽。
+alternative energies, 替代能源, Alternative energies, such as solar and wind power, are increasingly being used to reduce dependence on fossil fuels., 替代能源，如太陽能和風能，正被越來越多地使用以減少對化石燃料的依賴。
+ATM, 自動取款機, The ATM was out of service, so I had to find another one to withdraw money., 自動取款機停用了，所以我必須找到另一個機器來取款。
+amusement park, 游樂園, The amusement park is filled with exciting rides, games, and attractions for all ages., 游樂園裡充滿了各種刺激的遊樂設施、遊戲和適合各個年齡段的景點。
+an educational film, 教育影片, The educational film about marine biology provided fascinating insights into the underwater ecosystem., 那部關於海洋生物學的教育影片提供了對水下生態系統的迷人見解。
+analyse data, 分析數據, Scientists analyze data from their experiments to draw conclusions and confirm their hypotheses., 科學家們分析實驗數據，以得出結論並確認他們的假設。
+ancient temple, 古老的寺廟, The ancient temple, built thousands of years ago, is a significant historical site in the region., 這座古老的寺廟建於數千年前，是該地區重要的歷史遺跡。
+annual membership fee, 年費, The gym charges an annual membership fee that grants access to all its facilities and classes., 健身房收取年費，會員可享受所有設施和課程。
+answer questions, 回答問題, The teacher asked the students to answer questions based on the reading material provided., 老師要求學生根據提供的閱讀材料回答問題。
+ant intelligence, 螞蟻智力, Ant intelligence has fascinated researchers, especially how ants communicate and work together in colonies., 螞蟻的智力吸引了研究人員，特別是螞蟻如何在群體中進行交流和協作。
+antibiotics and acid, 抗生素與酸, The combination of antibiotics and acid is sometimes used to treat bacterial infections more effectively., 抗生素與酸的組合有時用來更有效地治療細菌感染。
+appearances, 外貌, Appearances can be deceiving, so it's important to get to know a person beyond their looks., 外貌可能會欺騙人，因此了解一個人不僅僅是外表是很重要的。
+apple juice, 蘋果汁, Freshly squeezed apple juice is a refreshing drink, especially when served chilled., 現榨蘋果汁是一種清爽的飲品，尤其是冷藏後食用。
+application form, 申請表, Please fill out the application form with accurate information before submitting it., 提交前，請填寫準確的申請表。
+applied mathematics, 應用數學, Applied mathematics is used to solve real-world problems in fields like engineering and economics., 應用數學用來解決工程學和經濟學等領域的現實問題。
+applied science, 應用科學, Applied science involves using scientific principles to develop practical solutions in industries such as healthcare and technology., 應用科學涉及利用科學原理開發醫療和技術等行業中的實用解決方案。
+architecture style, 建築風格, The architecture style of the building blends modern design with traditional elements, creating a unique aesthetic., 該建築的建築風格將現代設計與傳統元素相結合，創造出獨特的美學。
+Arctic Ocean, 北冰洋, The Arctic Ocean is known for its freezing temperatures and ice-covered surface throughout the year., 北冰洋以全年冰封的低溫和冰層覆蓋的表面而聞名。
+Atlantic Ocean, 大西洋, The Atlantic Ocean separates the Americas from Europe and Africa, and is a major trade route., 大西洋將美洲與歐洲和非洲分開，是主要的貿易航道。
+avoid touching rocks, 避免觸碰岩石, To prevent injury, it is important to avoid touching rocks in areas with dangerous marine life., 為了防止受傷，避免觸碰有危險海洋生物的岩石區域非常重要。
+arrive at one's destination, 到達目的地, After a long flight, they were relieved to finally arrive at their destination., 經過長時間的飛行，他們終於到達目的地，感到鬆了一口氣。
+art gallery, 藝術畫廊, The art gallery displayed works from renowned artists, showcasing a variety of styles and mediums., 藝術畫廊展示了著名藝術家的作品，涵蓋了多種風格和媒介。
+articles from journal, 期刊文章, The library has several articles from journals that provide in-depth analysis on climate change., 圖書館有幾篇來自期刊的文章，對氣候變化進行了深入分析。
+artistic approach, 藝術方法, Her artistic approach focuses on abstract forms and bright colors to evoke emotion and thought., 她的藝術方法專注於抽象形式和明亮的色彩，以喚起情感和思考。
+Asian studies, 亞洲研究, The university offers a degree in Asian Studies, which covers the history, politics, and cultures of the region., 該大學提供亞洲研究學位，涵蓋該地區的歷史、政治和文化。
+assessment methods, 評估方法, Various assessment methods, including exams, essays, and presentations, are used to evaluate student performance., 各種評估方法，包括考試、論文和報告，均用於評估學生的表現。
+assessment of patients, 病人評估, The assessment of patients is a critical step in determining the appropriate treatment for their conditions., 對病人的評估是確定適當治療方法的關鍵步驟。
+assistant professor, 助理教授, The assistant professor teaches undergraduate courses and conducts research in the field of biology., 助理教授教授本科課程並從事生物學領域的研究。
+associate with, 與...有關, He associates with experts in the field of economics to improve his understanding of the subject., 他與經濟學領域的專家有關聯，以提高對該學科的理解。
+assume the responsibility, 承擔責任, As the team leader, she will assume the responsibility of organizing meetings and delegating tasks., 作為團隊領導者，她將承擔組織會議和分配任務的責任。
+area for improvement, 改進的領域, One area for improvement in the project is better communication between team members., 該項目需要改進的一個領域是團隊成員之間更好的溝通。
+awards, 獎項, She received several awards for her outstanding contributions to the field of environmental science., 她因在環境科學領域的卓越貢獻而獲得了幾個獎項。
+atmospheric pollution, 大氣污染, Atmospheric pollution has reached dangerous levels in some cities, leading to serious health issues., 在一些城市，大氣污染已達到危險水平，導致嚴重的健康問題。
+atmospheric warming, 大氣變暖, Atmospheric warming is a key factor contributing to global climate change, affecting weather patterns and ecosystems., 大氣變暖是導致全球氣候變化的主要因素，影響著天氣模式和生態系統。
+Australian dollars, 澳大利亞元, The cost of the trip was quoted in Australian dollars, which fluctuated with the exchange rate., 旅行的費用以澳大利亞元報價，並隨著匯率波動。
+average ability, 平均能力, The average ability of the students in the class is higher than last year’s group., 該班級學生的平均能力比去年的班級要高。
+bricks, 磚塊, The construction workers laid bricks to build the wall, making steady progress throughout the day., 建築工人鋪設磚塊建造牆壁，整天穩步推進。
+bowls, 碗, The restaurant served soup in deep bowls, perfect for the hearty meal., 餐廳用深碗盛湯，適合這頓豐盛的餐點。
+Bachelor's degree, 本科學位, She completed her Bachelor’s degree in marketing and is now looking for a job in advertising., 她完成了市場營銷的本科學位，現在正在尋找廣告領域的工作。
+bad eyesight, 視力差, He has bad eyesight and needs to wear glasses for reading and driving., 他視力差，需要佩戴眼鏡來閱讀和駕駛。
+bad management, 糟糕的管理, Bad management can lead to poor decision-making, low employee morale, and ultimately failure., 糟糕的管理會導致決策不當、員工士氣低落，最終導致失敗。
+Baked Earth, 焦土, The Baked Earth technique is used in desert areas to create a hardened surface for building roads., 焦土技術用於沙漠地區，製造堅硬的地表以建造道路。
+banking center, 銀行中心, The banking center offers comprehensive financial services, including loans, savings accounts, and insurance., 銀行中心提供全面的金融服務，包括貸款、儲蓄賬戶和保險。
+bar chart, 條形圖, The bar chart illustrates the comparison of revenue between different departments over the last year., 條形圖顯示了去年各部門收入的比較。
+barbecue set, 烤肉設備, We bought a new barbecue set for the summer party, complete with a grill, utensils, and cooler., 我們為夏季派對購買了一套新的烤肉設備，包括燒烤架、用具和冷卻箱。
+barren land, 貧瘠土地, The barren land was once fertile but has been eroded by years of drought and poor farming practices., 這片貧瘠的土地曾經肥沃，但經過多年的乾旱和不良耕作方式後被侵蝕。
+barren mine, 荒廢礦場, The barren mine was abandoned after all the valuable minerals had been extracted., 在所有有價礦物被開採後，這個荒廢的礦場被拋棄。
+basic course, 基礎課程, The basic course in computer programming is ideal for beginners who are new to coding., 這門基礎計算機編程課程適合那些剛接觸編程的新手。
+basic rule, 基本規則, The basic rule of the game is to score as many points as possible without breaking any penalties., 這款遊戲的基本規則是盡可能多得分，同時不違反任何規則。
+be allergic to sth., 對...過敏, He is allergic to peanuts, so he must avoid any food containing nuts., 他對花生過敏，所以必須避免食用含有花生的食物。
+be out of temper, 發火, She was out of temper when she found out that her favorite item was sold out., 當她發現她最喜歡的物品已經售罄時，她發火了。
+bed linen, 床上用品, The hotel provides fresh bed linen for every guest to ensure a comfortable stay., 這家酒店為每位客人提供新鮮的床上用品，保證舒適的住宿體驗。
+be prone to, 易於, He is prone to headaches, especially when he doesn't get enough sleep., 他容易頭痛，尤其是當他沒有足夠的睡眠時。
+beginning course, 初學者課程, The beginning course in Spanish is designed for those who have never studied the language before., 這門西班牙語初學者課程是為那些從未學習過該語言的人設計的。
+belts, 皮帶, She bought several belts to match her outfits and enhance her overall style., 她買了幾條皮帶來搭配她的衣服，提升整體造型。
+biological clock, 生物鐘, The biological clock controls many of our body’s rhythms, including sleep and hunger cycles., 生物鐘控制著我們身體的許多節律，包括睡眠和饑餓的周期。
+black raincoat, 黑色雨衣, He wore a black raincoat to protect himself from the heavy rain during the storm., 他穿著一件黑色雨衣來保護自己免受暴雨侵襲。
+black skirt, 黑色裙子, She paired her black skirt with a white blouse for a professional yet stylish look., 她將黑色裙子與白襯衫搭配，打造出既專業又時尚的造型。
+black tea, 紅茶, I prefer black tea in the morning to help wake me up and get energized for the day., 我早上偏愛紅茶，幫助我清醒並為一天提供活力。
+black trousers, 黑色長褲, He wore black trousers to the formal event, looking sharp and professional., 他穿著黑色長褲參加正式活動，看起來既精緻又專業。
+black velvet, 黑天鵝絨, The dress was made of soft black velvet, giving it an elegant and luxurious appearance., 這件裙子是由柔軟的黑色天鵝絨製成，顯得既優雅又奢華。
+blocks, 積木, The children spent hours building towers and structures with their toy blocks., 孩子們花了好幾個小時用積木搭建塔樓和結構。
+blood flow, 血流, Regular exercise improves blood flow to the heart and other organs, promoting overall health., 定期運動可以改善血液流向心臟和其他器官，促進整體健康。
+blood sample, 血液樣本, The doctor took a blood sample to test for any abnormalities in his cholesterol levels., 醫生取了一個血液樣本來測試膽固醇水平是否異常。
+bloom of flowers, 花朵盛開, The bloom of flowers in spring fills the garden with vibrant colors and delightful fragrances., 春天花朵的盛開讓花園充滿了鮮豔的色彩和宜人的香氣。
+blue sweater, 藍色毛衣, She wore a soft blue sweater to keep warm on the chilly autumn day., 她穿著一件柔軟的藍色毛衣，在涼爽的秋天保持溫暖。
+boarding school, 寄宿學校, The student decided to attend a prestigious boarding school to receive a more challenging education., 這名學生決定去一所著名的寄宿學校接受更具挑戰性的教育。
+boat trip, 乘船旅行, The boat trip along the river offered stunning views of the surrounding countryside., 沿著河流的乘船旅行提供了壯麗的周圍鄉村景色。
+book in advance, 提前預訂, It is recommended to book in advance to secure a spot for the popular tour., 建議提前預訂，以確保能參加受歡迎的旅遊行程。
+bones, 骨頭, The archaeologists uncovered ancient bones that belonged to a prehistoric creature., 考古學家發現了屬於史前生物的古老骨頭。
+bowling alley, 保齡球館, They spent the evening at the bowling alley, enjoying the competition and snacks., 他們在保齡球館度過了夜晚，享受比賽和小吃。
+botanical garden, 植物園, The botanical garden is home to over 2,000 species of plants, making it a popular destination for nature enthusiasts., 植物園擁有超過2000種植物，是自然愛好者的熱門目的地。
+sky dome, 天空穹頂, The sky dome provides a panoramic view of the stars and planets, offering a unique stargazing experience., 天空穹頂提供全景視野，可以觀察星星和行星，提供獨特的觀星體驗。
+sleeping pills, 安眠藥, He was prescribed sleeping pills to help him fall asleep due to his insomnia., 由於失眠，他被開了安眠藥來幫助他入睡。
+sleeping sickness, 睡眠病, Sleeping sickness is a disease transmitted by tsetse flies, affecting the central nervous system., 睡眠病是由采采蠅傳播的疾病，影響中樞神經系統。
+slide presentation, 幻燈片演示, The slide presentation was an effective way to present the research findings to the audience., 幻燈片演示是一種有效的方式，可以向觀眾展示研究結果。
+small scale, 小規模, The small scale of the event allowed for a more personal and intimate atmosphere., 該活動的小規模使得氣氛更加親切和親密。
+small scar on his chin, 下巴上的小疤痕, He had a small scar on his chin from when he fell off his bike as a child., 他下巴上有一個小疤痕，是小時候從自行車上摔下來的結果。
+smoke alarms, 煙霧警報器, The smoke alarms in the building are tested regularly to ensure they function properly in case of a fire., 大樓中的煙霧警報器會定期測試，確保在火災發生時能正常運作。
+social isolation, 社會孤立, Social isolation can lead to feelings of loneliness and depression, particularly in the elderly., 社會孤立可能會導致孤獨和抑鬱感，尤其是在老年人中。
+social issues, 社會問題, Social issues such as poverty and inequality remain major challenges in many countries., 像貧困和不平等這樣的社會問題仍然是許多國家面臨的主要挑戰。
+social matter effects, 社會問題影響, The effects of social matters such as unemployment can be seen in the rising rates of mental health problems., 社會問題如失業的影響可以從心理健康問題的增長率中看出。
+social matters, 社會事務, The organization focuses on addressing social matters such as education and access to healthcare., 該組織專注於解決如教育和醫療服務可及性等社會事務。
+social problems, 社會問題, The city is tackling social problems like homelessness and unemployment through various community programs., 該市通過各種社區計劃來解決無家可歸和失業等社會問題。
+social status, 社會地位, Social status can often influence a person’s access to resources and opportunities., 社會地位往往會影響一個人獲得資源和機會的能力。
+social workers, 社會工作者, Social workers provide essential support to individuals and families facing challenges such as poverty and abuse., 社會工作者為面臨貧困和虐待等挑戰的個人和家庭提供必要的支持。
+soft drinks, 軟飲料, Soft drinks are popular refreshments, but excessive consumption can lead to health issues like obesity., 軟飲料是受歡迎的解渴飲品，但過度飲用可能會導致如肥胖等健康問題。
+soft toys, 軟玩具, The children played with their soft toys, enjoying the comfort and familiarity of their favorite stuffed animals., 孩子們玩著他們的軟玩具，享受著他們最喜愛的填充動物帶來的舒適和熟悉感。
+sound effect, 音效, The movie's sound effect added excitement to the action scenes, making them more dramatic., 電影的音效使動作場面更加激動人心，增添了戲劇性。
+solar system, 太陽系, The solar system consists of the Sun and eight planets, including Earth, that orbit around it., 太陽系由太陽和八顆行星組成，包括圍繞它運行的地球。

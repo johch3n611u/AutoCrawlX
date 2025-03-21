@@ -1,0 +1,488 @@
+[
+  {
+    "type": "ar",
+    "style": "#9F9F9F",
+    "price": 2.3,
+    "name": "Rugged (Beige)"
+  },
+  {
+    "type": "dmr",
+    "style": "#1f9c98",
+    "price": 2.3,
+    "name": "Rugged (Beige)"
+  },
+  {
+    "type": "sr",
+    "style": "#9F9F9F",
+    "price": 2.3,
+    "name": "Rugged (Beige)"
+  },
+  {
+    "type": "shotgun",
+    "style": "#9F9F9F",
+    "price": 2.3,
+    "name": "Rugged (Beige)"
+  },
+  {
+    "type": "shotgun",
+    "style": "#2D2B24",
+    "price": 2.3,
+    "name": "Rugged (Beige)"
+  },
+  {
+    "type": "handgun",
+    "style": "#df4b3c",
+    "price": 2.3,
+    "name": "Gunsmith Cobalt"
+  },
+  {
+    "type": "handgun",
+    "style": "#1f9c98",
+    "price": 2.3,
+    "name": "Silver Plate"
+  },
+  {
+    "type": "misc",
+    "style": "#2792de",
+    "price": 2.3,
+    "name": "Rugged (Beige)"
+  },
+  {
+    "type": "ar",
+    "style": "#1f9c98",
+    "price": 2.63,
+    "name": "Rugged (Orange)"
+  },
+  {
+    "type": "ar",
+    "style": "#c54aff",
+    "price": 2.63,
+    "name": "Jungle Digital"
+  },
+  {
+    "type": "ar",
+    "style": "#2792de",
+    "price": 2.63,
+    "name": "Rugged (Orange)"
+  },
+  {
+    "type": "dmr",
+    "style": "#df4b3c",
+    "price": 2.63,
+    "name": "Silver Plate"
+  },
+  {
+    "type": "sr",
+    "style": "#c54aff",
+    "price": 2.63,
+    "name": "Gunsmith Crimson"
+  },
+  {
+    "type": "smg",
+    "style": "#c54aff",
+    "price": 2.63,
+    "name": "Desert Digital"
+  },
+  {
+    "type": "smg",
+    "style": "#ffb800",
+    "price": 2.63,
+    "name": "Gunsmith Cobalt"
+  },
+  {
+    "type": "smg",
+    "style": "#df4b3c",
+    "price": 2.63,
+    "name": "Gold Plate"
+  },
+  {
+    "type": "smg",
+    "style": "#2792de",
+    "price": 2.63,
+    "name": "Silver Plate"
+  },
+  {
+    "type": "smg",
+    "style": "#1f9c98",
+    "price": 2.63,
+    "name": "Rugged (Orange)"
+  },
+  {
+    "type": "lmg",
+    "style": "#7657C3",
+    "price": 2.63,
+    "name": "Silver Plate"
+  },
+  {
+    "type": "shotgun",
+    "style": "#1f9c98",
+    "price": 2.63,
+    "name": "Silver Plate"
+  },
+  {
+    "type": "handgun",
+    "style": "#1f9c98",
+    "price": 2.63,
+    "name": "Desert Digital"
+  },
+  {
+    "type": "handgun",
+    "style": "#1f9c98",
+    "price": 2.63,
+    "name": "Jungle Digital"
+  },
+  {
+    "type": "handgun",
+    "style": "#1f9c98",
+    "price": 2.63,
+    "name": "Trifecta"
+  },
+  {
+    "type": "ar",
+    "style": "#9F9F9F",
+    "price": 2.96,
+    "name": "Rugged (Orange)"
+  },
+  {
+    "type": "dmr",
+    "style": "#ffb800",
+    "price": 2.96,
+    "name": "Gunsmith Cobalt"
+  },
+  {
+    "type": "sr",
+    "style": "#1f9c98",
+    "price": 2.96,
+    "name": "Rugged (Orange)"
+  },
+  {
+    "type": "sr",
+    "style": "#9F9F9F",
+    "price": 2.96,
+    "name": "Desert Digital"
+  },
+  {
+    "type": "shotgun",
+    "style": "#2D2B24",
+    "price": 2.96,
+    "name": "Gunsmith Crimson"
+  },
+  {
+    "type": "shotgun",
+    "style": "#1f9c98",
+    "price": 2.96,
+    "name": "Desert Digital"
+  },
+  {
+    "type": "handgun",
+    "style": "#2D2B24",
+    "price": 2.96,
+    "name": "Desert Digital"
+  },
+  {
+    "type": "ar",
+    "style": "#7657C3",
+    "price": 3.29,
+    "name": "Gunsmith Crimson"
+  },
+  {
+    "type": "ar",
+    "style": "#2D2B24",
+    "price": 3.62,
+    "name": "Silver Plate"
+  },
+  {
+    "type": "sr",
+    "style": "#1f9c98",
+    "price": 3.62,
+    "name": "Gold Plate"
+  },
+  {
+    "type": "handgun",
+    "style": "#df4b3c",
+    "price": 3.62,
+    "name": "Desert Digital"
+  },
+  {
+    "type": "dmr",
+    "style": "#7657C3",
+    "price": 3.95,
+    "name": "Desert Digital"
+  },
+  {
+    "type": "sr",
+    "style": "#2792de",
+    "price": 3.95,
+    "name": "Desert Digital"
+  },
+  {
+    "type": "smg",
+    "style": "#2792de",
+    "price": 3.95,
+    "name": "Trifecta"
+  },
+  {
+    "type": "smg",
+    "style": "#1f9c98",
+    "price": 3.95,
+    "name": "Silver Plate"
+  },
+  {
+    "type": "smg",
+    "style": "#7657C3",
+    "price": 3.95,
+    "name": "Silver Plate"
+  },
+  {
+    "type": "shotgun",
+    "style": "#7657C3",
+    "price": 3.95,
+    "name": "Toxic"
+  },
+  {
+    "type": "shotgun",
+    "style": "#2792de",
+    "price": 3.95,
+    "name": "Gold Plate"
+  },
+  {
+    "type": "dmr",
+    "style": "#2792de",
+    "price": 4.28,
+    "name": "Jungle Digital"
+  },
+  {
+    "type": "handgun",
+    "style": "#1f9c98",
+    "price": 4.28,
+    "name": "Turquoise Delight"
+  },
+  {
+    "type": "smg",
+    "style": "#2D2B24",
+    "price": 4.61,
+    "name": "Gold Plate"
+  },
+  {
+    "type": "dmr",
+    "style": "#9F9F9F",
+    "price": 5.6,
+    "name": "Lucky Knight"
+  },
+  {
+    "type": "sr",
+    "style": "#1f9c98",
+    "price": 5.6,
+    "name": "Lucky Knight"
+  },
+  {
+    "type": "melee",
+    "style": "#9F9F9F",
+    "price": 5.6,
+    "name": "Target Practice"
+  },
+  {
+    "type": "ar",
+    "style": "#7657C3",
+    "price": 5.93,
+    "name": "Desert Digital"
+  },
+  {
+    "type": "sr",
+    "style": "#7657C3",
+    "price": 5.93,
+    "name": "Jungle Digital"
+  },
+  {
+    "type": "ar",
+    "style": "#7657C3",
+    "price": 6.26,
+    "name": "Silver Plate"
+  },
+  {
+    "type": "ar",
+    "style": "#7657C3",
+    "price": 6.26,
+    "name": "Trifecta"
+  },
+  {
+    "type": "dmr",
+    "style": "#383838",
+    "price": 6.26,
+    "name": "Gold Plate"
+  },
+  {
+    "type": "sr",
+    "style": "#2D2B24",
+    "price": 6.26,
+    "name": "Gold Plate"
+  },
+  {
+    "type": "smg",
+    "style": "#7657C3",
+    "price": 6.26,
+    "name": "Turquoise Delight"
+  },
+  {
+    "type": "shotgun",
+    "style": "#7657C3",
+    "price": 6.26,
+    "name": "Silver Plate"
+  },
+  {
+    "type": "ar",
+    "style": "#9F9F9F",
+    "price": 6.58,
+    "name": "Gold Plate"
+  },
+  {
+    "type": "ar",
+    "style": "#7657C3",
+    "price": 6.58,
+    "name": "Tick Tock"
+  },
+  {
+    "type": "smg",
+    "style": "#c54aff",
+    "price": 22.72,
+    "name": "Glory"
+  },
+  {
+    "type": "ar",
+    "style": "#c54aff",
+    "price": 34.57,
+    "name": "Turquoise Delight"
+  },
+  {
+    "type": "ar",
+    "style": "#9F9F9F",
+    "price": 37.86,
+    "name": "Tick Tock"
+  },
+  {
+    "type": "sr",
+    "style": "#c54aff",
+    "price": 38.85,
+    "name": "Turquoise Delight"
+  },
+  {
+    "type": "shotgun",
+    "style": "#c54aff",
+    "price": 42.14,
+    "name": "Gold Plate"
+  },
+  {
+    "type": "ar",
+    "style": "#2792de",
+    "price": 45.43,
+    "name": "Shark Bite"
+  },
+  {
+    "type": "ar",
+    "style": "#7657C3",
+    "price": 51.03,
+    "name": "Gold Plate"
+  },
+  {
+    "type": "ar",
+    "style": "#7657C3",
+    "price": 137.62,
+    "name": "PCS1"
+  },
+  {
+    "type": "dmr",
+    "style": "#ffb800",
+    "price": 140.26,
+    "name": "PCS2 Gilded Triumph"
+  },
+  {
+    "type": "sr",
+    "style": "#2D2B24",
+    "price": 153.1,
+    "name": "PCS2 Gilded Triumph"
+  },
+  {
+    "type": "melee",
+    "style": "#ffb800",
+    "price": 153.1,
+    "name": "PCS1"
+  },
+  {
+    "type": "dmr",
+    "style": "#c54aff",
+    "price": 156.06,
+    "name": "PCS1"
+  },
+  {
+    "type": "ar",
+    "style": "#9F9F9F",
+    "price": 157.38,
+    "name": "PCS2 Fierce Conflict"
+  },
+  {
+    "type": "ar",
+    "style": "#2D2B24",
+    "price": 160.34,
+    "name": "PCS1"
+  },
+  {
+    "type": "ar",
+    "style": "#9F9F9F",
+    "price": 168.57,
+    "name": "PGC 2019"
+  },
+  {
+    "type": "ar",
+    "style": "#df4b3c",
+    "price": 329.9,
+    "name": "Glory"
+  },
+  {
+    "type": "dmr",
+    "style": "#2792de",
+    "price": 338.13,
+    "name": "Venetian"
+  },
+  {
+    "type": "sr",
+    "style": "#9F9F9F",
+    "price": 352.28,
+    "name": "Shark Bite"
+  },
+  {
+    "type": "sr",
+    "style": "#ffb800",
+    "price": 380.27,
+    "name": "PCS3 Tagged Out"
+  },
+  {
+    "type": "shotgun",
+    "style": "#df4b3c",
+    "price": 687.78,
+    "name": "Gold Plate"
+  },
+  {
+    "type": "dmr",
+    "style": "#7657C3",
+    "price": 765.81,
+    "name": "PCS3 Blue Bullion"
+  },
+  {
+    "type": "melee",
+    "style": "#2D2B24",
+    "price": 1495.4,
+    "name": "Pan of Judgement"
+  },
+  {
+    "type": "ar",
+    "style": "#ffb800",
+    "price": 1697.55,
+    "name": "Industrial Security"
+  },
+  {
+    "type": "melee",
+    "style": "#ffb800",
+    "price": 56982.92,
+    "name": "The Olive Branch"
+  }
+]

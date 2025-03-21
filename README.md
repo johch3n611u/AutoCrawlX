@@ -1,5 +1,9 @@
 # AutoCrawlX
 
+## Update
+
+* 2025/03/21：Firefox 0.36.0 [geckodriver](https://github.com/mozilla/geckodriver/releases)
+
 ## Demand
 
 1. I want to create a simple script to scrape the popularity of front-end frameworks on major forums and job boards daily or monthly. This will help me determine which direction to take for side-projects, increasing my chances of moving to Australia in three years.

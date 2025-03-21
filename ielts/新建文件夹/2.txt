@@ -1,0 +1,500 @@
+pavilion, 涼亭, We had lunch at the pavilion by the lake., 我們在湖邊的涼亭吃了午餐。
+affordable, 負擔得起的, This restaurant serves affordable and tasty food., 這家餐廳的食物美味且價格實惠。
+apprenticeship, 學徒制, He started his career through an apprenticeship., 他透過學徒制開始了自己的職涯。
+refurbishment, 整修, The library is closed for refurbishment., 圖書館因整修而暫時關閉。
+kingfisher, 翠鳥, We saw a kingfisher diving into the river., 我們看到一隻翠鳥俯衝入河中。
+initiation, 入門, The initiation of the program begins next week., 這個計畫下週正式啟動。
+resilience, 韌性, Children show incredible resilience in tough times., 孩子們在艱困時期展現了驚人的韌性。
+methodology, 方法論, The research uses a qualitative methodology., 這項研究採用了質性方法論。
+barrie, 巴里（地名／人名）, Barrie is known for its beautiful lakes., 巴里以其美麗的湖泊聞名。
+maternity, 產科, She works as a nurse in the maternity ward., 她在產科病房擔任護士。
+modification, 修改, The plan needs some modification before approval., 計畫在核准前需要一些修改。
+hemp, 大麻, Hemp is used to make fabric and paper., 大麻可用來製造布料和紙張。
+dominance, 優勢, The team maintained its dominance throughout the game., 球隊在整場比賽中保持優勢。
+patio, 露台, We had coffee on the sunny patio., 我們在陽光明媚的露台上喝咖啡。
+railing, 欄杆, Please hold the railing while using the stairs., 上下樓時請扶著欄杆。
+woodwork, 木工, He enjoys woodwork as a hobby., 他把木工當作興趣來做。
+lunchbox, 便當盒, She packed a sandwich in her lunchbox., 她在便當盒裡放了一份三明治。
+bins, 垃圾桶, Please put your trash in the bins., 請把垃圾丟進垃圾桶裡。
+individuals, 個人, The survey asked individuals about their opinions., 調查詢問了個人對這些議題的看法。
+labyrinths, 迷宮, The children played in the garden’s labyrinths., 孩子們在花園的迷宮裡玩耍。
+carvings, 雕刻, The temple walls are covered with ancient carvings., 寺廟的牆上布滿了古老的雕刻。
+turf, 草皮, They laid new turf in the backyard., 他們在後院鋪上了新草皮。
+patients, 病人, The doctor is seeing patients this afternoon., 醫生今天下午會診病人。
+sufferers, 患者, The clinic provides support for migraine sufferers., 診所為偏頭痛患者提供支援。
+hobbies, 興趣, Gardening and painting are her favorite hobbies., 園藝和畫畫是她最喜歡的興趣。
+refreshments, 茶點, Light refreshments will be served after the meeting., 會後將提供簡單的茶點。
+owners, 業主, The shop owners gathered for the meeting., 店家業主們聚集開會。
+servants, 僕人, The old mansion still has a few servants., 那座古宅至今仍有幾位僕人。
+stables, 馬廄, The horses are kept in the stables behind the house., 馬匹被養在屋後的馬廄裡。
+parkland, 公園綠地, The hotel is surrounded by beautiful parkland., 飯店被美麗的公園綠地環繞。
+reviews, 評論, The movie received great reviews from critics., 這部電影獲得了評論家的好評。
+plays, 戲劇, We watched two Shakespeare plays last weekend., 我們上週末看了兩齣莎士比亞的戲。
+consequences, 後果, Every decision has its consequences., 每個決定都有其後果。
+kayak, 獨木舟, They paddled the kayak across the river., 他們划著獨木舟過河。
+wetsuit, 防寒衣, You’ll need a wetsuit for diving., 潛水時你需要穿防寒衣。
+percussion, 打擊樂器, The band has a strong percussion section., 這支樂團的打擊樂器部分很強。
+parental, 父母的, Parental guidance is recommended for this movie., 這部電影建議父母陪同觀看。
+stork, 鸛, A stork was spotted near the river., 有人看到一隻鸛在河邊。
+zoological, 動物學的, He’s studying zoological sciences at university., 他在大學主修動物學。
+tangible, 有形的, The museum displays many tangible artifacts., 博物館展出許多有形的文物。
+retention, 保留, Employee retention is important for a company’s success., 員工留任對公司的成功很重要。
+brewery, 啤酒廠, We toured the local brewery last weekend., 我們上週末參觀了當地的啤酒廠。
+rewarding, 有收穫的, Teaching is a challenging but rewarding job., 教書是一份充滿挑戰但很有收穫的工作。
+waffle, 鬆餅, I had a waffle with honey for breakfast., 我早餐吃了蜂蜜鬆餅。
+preservative, 防腐劑, This product contains no artificial preservatives., 這個產品不含人工防腐劑。
+low impact, 低衝擊, Swimming is a low impact exercise., 游泳是一種低衝擊運動。
+alternative energy, 替代能源, Solar power is a form of alternative energy., 太陽能是一種替代能源。
+roads and bridges, 道路與橋樑, The government invested heavily in roads and bridges., 政府大力投資道路與橋樑建設。
+high absence rate, 缺席率高, The class has a high absence rate this semester., 這學期這班的缺席率很高。
+persuasive writing, 說服性寫作, Persuasive writing requires strong arguments., 說服性寫作需要有力的論點。
+academic essays, 學術論文, Students must submit two academic essays this term., 學生這學期必須繳交兩篇學術論文。
+ocean conditions, 海洋狀況, The ocean conditions were perfect for sailing., 海洋狀況非常適合航行。
+study ability, 學習能力, Her strong study ability helped her graduate early., 她的學習能力很強，提早畢業了。
+simple memories, 簡單的回憶, Childhood is full of simple memories., 童年充滿了簡單而美好的回憶。
+information sector, 資訊產業, The information sector is growing rapidly., 資訊產業正快速成長。
+digital store, 數位商店, I downloaded the game from the digital store., 我從數位商店下載了這款遊戲。
+volcanic dust, 火山灰, The sky was darkened by volcanic dust., 天空因為火山灰而變暗了。
+bar code, 條碼, Scan the bar code to get the price., 掃描條碼即可顯示價格。
+climate change, 氣候變遷, Climate change is a global challenge., 氣候變遷是全球性的挑戰。
+learning difficulty, 學習困難, The school provides help for students with learning difficulty., 學校會協助有學習困難的學生。
+reading difficulty, 閱讀困難, Dyslexia can cause serious reading difficulty., 閱讀障礙會導致嚴重的閱讀困難。
+low nutrition, 營養不足, Junk food often leads to low nutrition., 垃圾食物常導致營養不足。
+desert habitat, 沙漠棲息地, Camels are well adapted to the desert habitat., 駱駝非常適應沙漠棲息地。
+no change, 無變化, There was no change in the patient’s condition., 病人的狀況沒有變化。
+extra resources, 額外資源, Students can access extra resources online., 學生可以在線上使用額外資源。
+private property, 私人財產, No parking on private property., 請勿停車在私人財產上。
+fruit growing, 水果種植, The area is famous for fruit growing., 這個地區以水果種植聞名。
+specialised software, 專業軟體, Engineers use specialised software for design., 工程師使用專業軟體進行設計。
+chewing gum, 口香糖, Chewing gum is not allowed in class., 上課時禁止嚼口香糖。
+water pipes, 水管, The old house has rusty water pipes., 這棟老房子的水管已經生鏽了。
+big company, 大公司, She dreams of working for a big company., 她夢想能在大公司上班。
+action plan, 行動計畫, The team created an action plan for the project., 團隊為專案制定了行動計畫。
+window glass, 玻璃窗, The window glass broke during the storm., 暴風雨中玻璃窗被打破了。
+road building, 道路建設, Road building in the mountains is very challenging., 山區的道路建設非常具有挑戰性。
+knife handle, 刀柄, The knife handle is made of wood., 這把刀的刀柄是木頭做的。
+olive oil, 橄欖油, Olive oil is healthier than regular cooking oil., 橄欖油比一般食用油更健康。
+goat skin, 山羊皮, The drum is made from goat skin., 這個鼓是用山羊皮製成的。
+high temperatures, 高溫, The material can withstand high temperatures., 這種材料能耐高溫。
+land bridge, 陸橋, Ancient animals crossed the land bridge to new continents., 遠古動物穿越陸橋來到新大陸。
+fresh meat, 新鮮肉類, Always buy fresh meat from trusted stores., 一定要從信得過的店家買新鮮肉類。
+food intake, 食物攝取量, He reduced his food intake to lose weight., 他減少了食物攝取量來減肥。
+eating pattern, 飲食習慣, Changing your eating pattern can improve your health., 改變飲食習慣有助於改善健康。
+transport museum, 交通博物館, We visited the transport museum last weekend., 我們上週末參觀了交通博物館。
+water tanks, 水箱, The farm uses large water tanks for irrigation., 農場用大型水箱進行灌溉。
+government election, 政府選舉, The government election will be held next month., 政府選舉將在下個月舉行。
+car tax, 車輛稅, You must pay the car tax every year., 車輛稅每年都要繳。
+textile factory, 紡織工廠, She works in a textile factory downtown., 她在市區一家紡織工廠工作。
+tea tree oil, 茶樹精油, Tea tree oil is good for treating skin problems., 茶樹精油對治療皮膚問題很有效。
+video cameras, 攝影機, The event was recorded with video cameras., 這場活動用攝影機全程錄下來了。
+global warming, 全球暖化, Global warming is causing ice caps to melt., 全球暖化正在導致冰帽融化。
+online service, 線上服務, Our online service is available 24/7., 我們的線上服務全天候提供。
+further training, 進修訓練, Further training is required for this position., 這個職位需要進修訓練。
+internal flight, 國內航班, The internal flight was delayed due to bad weather., 這班國內航班因天氣不好而延誤。
+traffic flow, 車流量, The new bridge helps improve traffic flow., 新建的橋樑有助於改善車流量。
+short stroke, 短衝程, The engine uses a short stroke for better speed., 這台引擎採用短衝程設計以提高速度。
+large-scale housing, 大型住宅區, The government plans to build large-scale housing projects., 政府計畫興建大型住宅區。
+group meeting, 小組會議, We have a group meeting every Monday., 我們每週一都有小組會議。
+standard feedback, 標準回饋, Students receive standard feedback after each test., 學生每次考試後都會收到標準回饋。
+mission statement, 宗旨聲明, The company’s mission statement focuses on sustainability., 公司宗旨聲明強調永續發展。
+training session, 訓練課程, The staff attended a safety training session., 員工參加了安全訓練課程。
+soil damage, 土壤破壞, Over-farming leads to serious soil damage., 過度耕作會導致嚴重的土壤破壞。
+broken axe, 破損的斧頭, He couldn’t cut the wood with a broken axe., 他的斧頭壞了，無法劈柴。
+fish bones, 魚骨, Be careful not to swallow fish bones., 小心別吞到魚骨。
+triangle-shaped, 三角形的, The cake was cut into triangle-shaped pieces., 蛋糕被切成三角形的塊狀。
+absence rate, 缺席率, The class has a high absence rate this semester., 這學期這班的缺席率很高。
+green tax, 環保稅, The government plans to introduce a green tax., 政府計畫推出環保稅。
+transport service, 交通服務, The city provides free transport service on weekends., 市政府週末提供免費交通服務。
+sleeping disturbance, 睡眠干擾, Noise from the street caused sleeping disturbance., 街上的噪音影響了睡眠。
+public square, 公共廣場, A concert was held at the public square last night., 昨晚在公共廣場舉辦了一場音樂會。
+feeding time, 餵食時間, The zoo visitors watched the lions during feeding time., 遊客們在餵食時間觀看獅子。
+vertical cabin, 垂直艙, The elevator has a small vertical cabin., 電梯的垂直艙體積很小。
+ask for apology, 要求道歉, She demanded he ask for apology for his mistake., 她要求他為自己的錯誤道歉。
+voices and faces, 聲音與面孔, I remember voices and faces but forget names., 我記得聲音和面孔，但常忘記名字。
+heart rate, 心率, Running increases your heart rate quickly., 跑步會迅速增加你的心率。
+red blood cell, 紅血球, Red blood cell count is low in anemia patients., 貧血患者的紅血球數量偏低。
+Indian tribes, 印第安部落, The museum displays artifacts from Indian tribes., 博物館展出了印第安部落的文物。
+grain pattern, 木紋圖案, The table has a beautiful grain pattern., 這張桌子有漂亮的木紋圖案。
+prime motivation, 主要動機, Money is not his prime motivation for working., 金錢並不是他工作的主要動機。
+streets and roads, 街道與道路, The city’s streets and roads were flooded., 城市的街道與道路全被淹沒了。
+forest planet, 森林星球, The movie is set on a forest planet., 這部電影的背景設定在森林星球上。
+ship building, 造船, Ship building requires skilled labor., 造船需要技術熟練的工人。
+natural fiber, 天然纖維, Clothes made of natural fiber are comfortable., 天然纖維製成的衣服穿起來很舒服。
+melting pot, 大熔爐, New York is often called a melting pot of cultures., 紐約常被稱為文化大熔爐。
+carbon mining, 碳礦開採, Carbon mining harms the environment., 碳礦開採對環境有害。
+fishing lesson, 釣魚課, He took his son for a fishing lesson., 他帶兒子去上釣魚課。
+known world, 已知世界, They traveled to the edge of the known world., 他們旅行到了已知世界的邊緣。
+silver coins, 銀幣, The treasure chest was full of silver coins., 寶箱裡滿是銀幣。
+Roman emperor, 羅馬皇帝, Julius Caesar was a famous Roman emperor., 凱薩大帝是著名的羅馬皇帝。
+social conformity, 社會從眾, Social conformity can limit individual creativity., 社會從眾會限制個人創造力。
+law firm, 律師事務所, She works as a lawyer in a law firm., 她在律師事務所當律師。
+protective clothing, 防護服, Workers must wear protective clothing on site., 工人必須穿戴防護服進入工地。
+market share, 市場佔有率, The company increased its market share last year., 這家公司去年提升了市場佔有率。
+reflective practice, 反思實踐, Teachers improve through reflective practice., 老師透過反思實踐來進步。
+habitat loss, 棲息地喪失, Deforestation leads to habitat loss., 森林砍伐會造成棲息地喪失。
+rich experiences, 豐富的經驗, Traveling abroad gave her rich experiences., 出國旅遊帶給她豐富的經驗。
+zero noisy, 完全無聲, The new car runs smoothly with zero noisy., 這輛新車運行時完全無聲。
+durable contracture, 持久的收縮, The muscle suffered a durable contracture., 肌肉出現了持久的收縮。
+land resources, 土地資源, Land resources are limited and need protection., 土地資源有限，必須受到保護。
+fish farming, 魚類養殖, Fish farming is a growing industry., 魚類養殖是個成長中的產業。
+hospitality industry, 觀光餐旅業, The hospitality industry suffered during the pandemic., 疫情期間觀光餐旅業受創嚴重。
+time and sequence, 時間與順序, Understanding time and sequence is key in storytelling., 理解時間與順序是說故事的關鍵。
+language barrier, 語言障礙, The language barrier made communication difficult., 語言障礙讓溝通變得困難。
+wealthy people, 富人, Wealthy people often invest in real estate., 富人常常投資房地產。
+food prices, 食品價格, Food prices have increased this year., 今年食品價格上漲了。
+presence rate, 出席率, The presence rate was high at the conference., 這次會議的出席率很高。
+direct route, 直達路線, The taxi driver chose the direct route to the airport., 計程車司機選了直達機場的路線。
+tracking devices, 追蹤裝置, Animals were fitted with tracking devices., 動物被裝上了追蹤裝置。
+operation manager, 營運經理, The operation manager oversees daily activities., 營運經理負責監督日常運作。
+fish hooks, 魚鉤, He packed extra fish hooks for the trip., 他為這趟旅行多準備了一些魚鉤。
+rare glass, 稀有玻璃, The museum exhibits rare glass from ancient Rome., 博物館展出了來自古羅馬的稀有玻璃。
+cooperation process, 合作過程, Trust is important in the cooperation process., 合作過程中信任非常重要。
+social glue, 社交黏著劑, Shared activities act as social glue in communities., 共同活動是社區裡的社交黏著劑。
+carpet case, 地毯盒, The vacuum cleaner came with a carpet case., 吸塵器附了一個地毯盒。
+transport system, 運輸系統, The city is improving its public transport system., 這座城市正在改善公共運輸系統。
+hand torch, 手電筒, He carried a hand torch during the night hike., 夜間健行時他帶了一支手電筒。
+boring content, 無聊內容, Students lost interest because of the boring content., 因為內容無聊，學生們失去了興趣。
+traditional lecture, 傳統講課, The course was taught through traditional lecture., 這門課採用傳統講課方式進行。
+regular basis, 定期, She visits her grandparents on a regular basis., 她定期去看望祖父母。
+extreme sports, 極限運動, Skydiving is one of the most popular extreme sports., 跳傘是最受歡迎的極限運動之一。
+lifestyle sports, 生活型運動, Surfing is considered a lifestyle sport., 衝浪被視為一種生活型運動。
+better equipment, 更好的設備, Better equipment improves safety in sports., 更好的設備能提升運動安全性。
+traditional sports, 傳統運動, Soccer and basketball are traditional sports., 足球和籃球是傳統運動。
+restricted regulations, 限制規定, The lab has restricted regulations on chemicals., 實驗室對化學品有嚴格的限制規定。
+regular training, 定期訓練, Regular training helps athletes stay in shape., 定期訓練有助於運動員保持體能。
+individual competition, 個人競賽, Swimming is often an individual competition., 游泳通常是個人競賽。
+sense of community, 社群感, Volunteering builds a strong sense of community., 志願服務能建立強烈的社群感。
+salt content, 含鹽量, The doctor advised him to reduce his salt content., 醫生建議他降低鹽分攝取量。
+rice cultivation, 稻米栽培, Rice cultivation requires large amounts of water., 稻米栽培需要大量的水資源。
+skin of frog, 青蛙皮膚, The skin of frog is very sensitive to pollution., 青蛙的皮膚對汙染非常敏感。
+glass bottle, 玻璃瓶, Please recycle the glass bottle after use., 用完後請回收玻璃瓶。
+open roof, 開放式屋頂, The restaurant has an open roof for summer dining., 這家餐廳有開放式屋頂，適合夏天用餐。
+sand base, 沙地基礎, The playground was built on a sand base., 這座遊樂場建在沙地基礎上。
+high protein, 高蛋白, Eggs are a great source of high protein., 雞蛋是高蛋白的重要來源。
+fiber diet, 高纖飲食, A fiber diet helps with digestion., 高纖飲食有助於消化。
+constant temperature, 恆溫, The lab keeps samples at a constant temperature., 實驗室將樣本保持在恆溫狀態。
+average size, 平均尺寸, The house is of average size for this neighborhood., 這間房子的大小在這區算是平均水準。
+good eyesight, 視力良好, Birds of prey have very good eyesight., 猛禽類的視力非常好。
+major illness, 重病, She took time off work due to a major illness., 她因重病請了假。
+quality of life, 生活品質, Regular exercise improves your quality of life., 規律運動能提升你的生活品質。
+physical changes, 生理變化, Adolescents experience many physical changes., 青少年會經歷許多生理變化。
+particular disease, 特定疾病, Smoking increases the risk of particular diseases., 抽菸會增加罹患特定疾病的風險。
+dark blue veil, 深藍色面紗, The bride wore a dark blue veil., 新娘戴著深藍色的面紗。
+scientific backup, 科學佐證, This theory lacks scientific backup., 這個理論缺乏科學佐證。
+migration patterns, 遷徙模式, Scientists study bird migration patterns., 科學家研究鳥類的遷徙模式。
+preserved remains, 保存下來的遺骸, The museum displays preserved remains of ancient animals., 博物館展出古代動物的遺骸。
+mineral soil, 礦物土壤, The plants grow best in mineral soil., 這些植物最適合生長在礦物土壤中。
+tape measure, 捲尺, He used a tape measure to check the window size., 他用捲尺量窗戶尺寸。
+soft sediment, 軟沉積物, The riverbed is full of soft sediment., 河床上滿是軟沉積物。
+plant pot, 花盆, She bought a new plant pot for her cactus., 她買了一個新花盆來種仙人掌。
+estate agent, 房地產仲介, The estate agent showed us three apartments., 房仲帶我們看了三間公寓。
+botanic garden, 植物園, We spent the afternoon at the botanic garden., 我們整個下午都在植物園裡逛。
+emergency locator beacon, 緊急定位器, The boat was equipped with an emergency locator beacon., 這艘船裝有緊急定位器。
+digestive problem, 消化問題, He often suffers from digestive problems., 他經常有消化問題。
+red blood cells, 紅血球, Iron is essential for producing red blood cells., 鐵是製造紅血球的重要元素。
+weight loss, 減重, Exercise and diet are important for weight loss., 運動和飲食控制對減重很重要。
+fishing net, 漁網, The fishermen repaired their fishing net., 漁夫們正在修補他們的漁網。
+pigeons and rats, 鴿子和老鼠, Pigeons and rats are common in the city., 鴿子和老鼠在城市裡很常見。
+still water, 靜止的水, Mosquitoes breed in still water., 蚊子會在靜止的水中繁殖。
+stored temperature, 儲存溫度, Keep the medicine at the correct stored temperature., 請將藥品保持在正確的儲存溫度。
+frozen food, 冷凍食品, I always keep some frozen food for emergencies., 我總是備些冷凍食品以防萬一。
+machines or robots, 機器或機器人, Machines or robots do most of the factory work., 工廠的大部分工作都是由機器或機器人完成的。
+smooth ride, 平穩的行駛, This car offers a very smooth ride., 這輛車行駛起來非常平穩。
+rubber tyre, 橡膠輪胎, The bike has new rubber tyres., 這台腳踏車換上了新的橡膠輪胎。
+desert locations, 沙漠地區, Camels are well adapted to desert locations., 駱駝非常適應沙漠地區。
+southern Scotland, 蘇格蘭南部, We spent our vacation in southern Scotland., 我們在蘇格蘭南部度過了假期。
+head offices, 總公司, The company’s head offices are located in London., 這家公司的總公司設在倫敦。
+global market, 全球市場, The product is now available in the global market., 這項產品現在已進入全球市場。
+safe environment, 安全的環境, Children need a safe environment to grow., 孩子們需要一個安全的環境成長。
+hearing loss, 聽力損失, Prolonged loud noise can cause hearing loss., 長時間的噪音會導致聽力損失。
+maintain the gene diversity, 維持基因多樣性, Wildlife protection helps maintain the gene diversity., 保育野生動物有助於維持基因多樣性。
+hinder domestic smells, 阻隔室內氣味, Good ventilation helps hinder domestic smells., 良好的通風能阻隔室內氣味。
+transport costs, 運輸成本, Rising fuel prices increased transport costs., 油價上漲導致運輸成本增加。
+cleansing properties, 淨化特性, Lemon is known for its cleansing properties., 檸檬以其淨化特性而聞名。
+gum tree, 尤加利樹, Koalas feed on leaves of the gum tree., 無尾熊以尤加利樹的葉子為食。
+gene diversity, 基因多樣性, Protecting species helps maintain gene diversity., 保護物種有助於維持基因多樣性。
+multiple tasks, 多項任務, The new software can handle multiple tasks at once., 這款新軟體能同時處理多項任務。
+nature reserve, 自然保護區, The park was turned into a nature reserve., 這座公園已被劃為自然保護區。
+nesting boxes, 巢箱, The park installed nesting boxes for birds., 公園設置了鳥類巢箱。
+car park, 停車場, The car park was full by noon., 中午時停車場就已經滿了。
+participate in, 參與, All students must participate in the group project., 所有學生都必須參與這個小組專題。
+jet black, 漆黑, She wore a jet black dress to the party., 她穿著一件漆黑的洋裝參加派對。
+sea eagles, 海鷹, We spotted two sea eagles flying over the cliffs., 我們看到兩隻海鷹在懸崖上空盤旋。
+fur seals, 海狗, Fur seals live along the rocky coasts., 海狗棲息在岩石海岸邊。
+dairy cows, 乳牛, Dairy cows provide milk for cheese production., 乳牛提供製作起司所需的牛奶。
+fundamental change, 根本變化, Climate change brings fundamental changes to our environment., 氣候變遷為我們的環境帶來了根本變化。
+medical terminology, 醫學術語, Medical students must memorize complex medical terminology., 醫學生必須記住複雜的醫學術語。
+New Year's Eve party, 跨年派對, We are going to a New Year’s Eve party downtown., 我們要去市中心參加跨年派對。
+audio guides, 語音導覽, The museum provides free audio guides., 博物館提供免費的語音導覽。
+mini tractors, 小型拖拉機, The farmer bought two new mini tractors., 農夫買了兩台新的小型拖拉機。
+adventure playground, 冒險遊樂場, The kids love the new adventure playground., 孩子們很喜歡這座新的冒險遊樂場。
+rare breeds, 稀有品種, The farm raises rare breeds of sheep., 這座農場飼養稀有品種的羊。
+actor's delivery, 演員表現, The actor’s delivery of lines was impressive., 這位演員的台詞表現令人印象深刻。
+recognisable characters, 易辨識的角色, The play featured recognisable characters from the novel., 這齣戲有小說裡的經典角色。
+digital technology, 數位科技, Digital technology has changed the way we live., 數位科技改變了我們的生活方式。
+Icelandic language, 冰島語, Icelandic language is known for its complexity., 冰島語以其複雜性聞名。
+computer-based concepts, 電腦概念, The course focuses on computer-based concepts and applications., 這門課重點在於電腦概念與應用。
+web browser, 網頁瀏覽器, Chrome is a popular web browser., Chrome 是一款很受歡迎的網頁瀏覽器。
+surfing holiday, 衝浪假期, We booked a surfing holiday in Hawaii., 我們預訂了夏威夷的衝浪假期。
+specialist teacher, 專科教師, A specialist teacher helps students with special needs., 專科教師協助有特殊需求的學生。
+southern pole, 南極, The southern pole is the coldest place on Earth., 南極是地球上最冷的地方。
+hibernation instinct, 冬眠本能, Bears have a strong hibernation instinct., 熊有很強的冬眠本能。
+pressure washer, 高壓清洗機, He used a pressure washer to clean the driveway., 他用高壓清洗機清理車道。
+security check, 安全檢查, All bags must go through a security check., 所有行李都必須通過安全檢查。
+professional athlete, 職業運動員, She trained hard to become a professional athlete., 她努力訓練成為職業運動員。
+table tennis bats, 桌球拍, Don’t forget to bring your table tennis bats., 別忘了帶上你的桌球拍。
+horse harnesses, 馬具, The horse harnesses were polished for the show., 馬具被擦得閃亮亮準備參加表演。
+bananas, 香蕉, Monkeys love eating bananas., 猴子很愛吃香蕉。
+qualifications, 資格, You need special qualifications to apply for this job., 申請這份工作需要特定資格。
+tutorial, 課程輔導, The professor held a tutorial on essay writing., 教授舉辦了一場論文寫作的課程輔導。
+metallurgy, 冶金學, Metallurgy is essential in manufacturing industries., 冶金學在製造業中非常重要。
+citizens, 公民, All citizens have the right to vote., 所有公民都有投票權。
+drawbacks, 缺點, One of the drawbacks of city life is the noise., 城市生活的缺點之一是噪音。
+diving, 潛水, She went diving in the coral reef., 她到珊瑚礁潛水。
+dismissal, 解雇, His repeated mistakes led to dismissal., 他屢次犯錯導致被解雇。
+manipulation, 操控, The magician’s manipulation of cards was amazing., 魔術師的撲克牌操控技術令人驚嘆。
+licence, 執照, You need a driving licence to rent a car., 你需要駕照才能租車。
+woodland, 林地, They went hiking in the woodland area., 他們在林地裡健行。
+professionals, 專業人士, The seminar is open to all professionals., 這場研討會對所有專業人士開放。
+cellulose, 纖維素, Cellulose is a key component of plant cell walls., 纖維素是植物細胞壁的重要成分。
+chandelier, 吊燈, The chandelier lit up the grand hall., 吊燈照亮了大廳。
+initials, 首字母縮寫, Please write your initials at the bottom of the form., 請在表格下方填上你的首字母縮寫。
+bladders, 膀胱, Drinking too much water can stress your bladder., 喝太多水會讓你的膀胱承受壓力。
+toads, 蟾蜍, Toads are mostly active at night., 蟾蜍多半在夜間活動。
+farmland, 農田, The farmers worked hard to cultivate their farmland., 農民們努力耕作他們的農田。
+sperm, 精子, Sperm cells are necessary for fertilization., 精子細胞對受精至關重要。
+variables, 變數, The study examines several key variables., 該研究檢查了幾個關鍵變數。
+dishwasher, 洗碗機, The dishwasher cleans all the dishes in minutes., 洗碗機幾分鐘內就能洗乾淨所有碗碟。
+juniors, 初學者, The juniors will participate in the competition next month., 初學者將參加下個月的比賽。
+teenagers, 青少年, Teenagers are often influenced by social media., 青少年常常受社交媒體影響。
+ingredients, 食材, Make sure you have all the ingredients before cooking., 做飯前請確保你擁有所有食材。
+geographers, 地理學家, Geographers study the Earth's physical features., 地理學家研究地球的物理特徵。
+valve, 閥門, The valve controls the flow of water in the pipe., 閥門控制管道中水流的流量。
+meetings, 會議, The meetings are scheduled for every Friday afternoon., 會議安排在每週五下午舉行。
+bookshop, 書店, I bought the book from a local bookshop., 我從當地書店買了這本書。
+chimpanzees, 黑猩猩, Chimpanzees are closely related to humans., 黑猩猩與人類有很近的親緣關係。
+nutshell, 核心要點, In a nutshell, the project was a success., 簡而言之，這個項目是成功的。
+Eskimo, 愛斯基摩人, Eskimos traditionally live in the Arctic regions., 愛斯基摩人傳統上生活在北極地區。
+proofreading, 校對, She spent the evening proofreading her essay., 她花了整個晚上校對她的文章。
+peas, 豌豆, Peas are a common ingredient in many dishes., 豌豆是許多菜肴中常見的食材。
+crops, 農作物, The farmer grows several types of crops on his land., 農夫在他的土地上種植幾種農作物。
+fiancee, 未婚妻, He gave his fiancée a beautiful ring., 他送給未婚妻一枚美麗的戒指。
+bookshelf, 書架, The bookshelf is filled with books from different genres., 書架上擺滿了來自不同領域的書籍。
+reconstruction, 重建, The city is undergoing a major reconstruction after the earthquake., 在地震後，這座城市正在進行大規模的重建。
+volunteers, 志願者, Volunteers helped clean up the park on Saturday., 志願者們週六幫忙清理公園。
+voicemail, 語音郵件, I left a voicemail for the client to follow up., 我給客戶留了語音郵件以便後續跟進。
+warnings, 警告, The weather service issued warnings for severe storms., 氣象服務發布了嚴重風暴的警告。
+Mars, 火星, Mars is the fourth planet from the Sun., 火星是距太陽第四顆行星。
+toleration, 寬容, Toleration is essential for peaceful coexistence., 寬容對於和平共處至關重要。
+hectares, 公頃, The farm covers an area of 50 hectares., 這個農場面積達50公頃。
+grams, 克, The recipe requires 200 grams of sugar., 這個食譜需要200克糖。
+disorders, 疾病, Mental disorders should be addressed with care and attention., 精神疾病應該受到關注和照顧。
+mite, 螨蟲, Dust mites are common allergens in homes., 塵蟎是家庭中常見的過敏原。
+composers, 作曲家, Classical composers like Beethoven created timeless music., 像貝多芬這樣的古典作曲家創作了永恆的音樂。
+gardening, 园艺, Gardening is a relaxing hobby for many people., 园艺是许多人放松的爱好。
+gloves, 手套, He wore gloves to protect his hands from the cold., 他戴上手套保護雙手免受寒冷。
+footwear, 鞋類, The store offers a wide selection of footwear., 這家店提供各種鞋類選擇。
+centralization, 集中化, The centralization of power often leads to inefficiency., 權力集中化往往導致效率低下。
+slug, 蛞蝓, A slug left a slimy trail across the garden., 一隻蛞蝓在花園裡留下了黏滑的痕跡。
+snails, 蝸牛, Snails move slowly, leaving a trail of slime behind., 蝸牛緩慢爬行，留下了一條黏滑的痕跡。
+indicator, 指示器, The fuel gauge is an indicator of how much gas remains., 油表是顯示剩餘油量的指示器。
+insulation, 隔熱材料, The house uses high-quality insulation to reduce energy costs., 這座房子使用高品質的隔熱材料來降低能源成本。
+trays, 托盤, The waiter brought us our drinks on a tray., 服務生把飲料放在托盤上端來給我們。
+sunglasses, 太陽眼鏡, Don’t forget to wear sunglasses to protect your eyes from UV rays., 別忘了戴上太陽眼鏡來保護眼睛免受紫外線傷害。
+suncream, 防曬霜, Apply suncream to your skin before going outside., 外出前在皮膚上塗抹防曬霜。
+celebrations, 慶祝活動, The city held big celebrations for the national holiday., 這座城市為國慶日舉辦了盛大的慶祝活動。
+whales, 鯨魚, Whales migrate thousands of miles each year., 鯨魚每年遷徙數千英里。
+factors, 因素, There are many factors that contribute to a healthy lifestyle., 健康生活方式有許多因素影響。
+genders, 性別, The survey studied the differences between genders., 該調查研究了不同性別之間的差異。
+outcomes, 結果, The outcomes of the experiment were not as expected., 實驗結果與預期不同。
+generalization, 一般化, Making a generalization based on limited data is risky., 基於有限數據做出一般化推論是風險的。
+documents, 文件, Please submit the required documents by Friday., 請在週五之前提交所需的文件。
+voting, 投票, Voting will take place next week., 投票將於下週進行。
+manpower, 人力, The project requires more manpower to meet the deadline., 該項目需要更多的人力才能按時完成。
+farmhouse, 農舍, The farmhouse has a beautiful garden with flowers., 農舍旁有一個美麗的花園，種滿了鮮花。
+windsurfing, 風帆衝浪, She loves windsurfing on the lake., 她喜歡在湖上風帆衝浪。
+stage-set, 舞台布景, The stage-set for the play was elaborate and detailed., 該劇的舞台布景精緻且細緻。
+graffiti, 塗鴉, The wall was covered in colorful graffiti., 墻上布滿了色彩繽紛的塗鴉。
+sticks, 棍棒, The children used sticks to build a fort., 孩子們用棍棒建了一個堡壘。
+facilities, 設施, The hotel provides excellent recreational facilities., 這家酒店提供了優質的娛樂設施。
+fossils, 化石, Fossils help scientists learn about the past., 化石幫助科學家了解過去的情況。
+moa, 大鳥, Moas were giant flightless birds native to New Zealand., 大鳥是原生於紐西蘭的巨型不會飛的鳥類。
+wreckage, 殘骸, The wreckage from the crash was scattered across the field., 事故的殘骸散落在田野中。
+Cantonese, 廣東話, Cantonese is widely spoken in southern China., 廣東話在中國南方被廣泛使用。
+degradation, 降解, The degradation of the environment is a global issue., 環境退化是全球性問題。
+subtitles, 字幕, The movie was shown with Chinese subtitles., 這部電影提供了中文字幕。
+resin, 樹脂, The artist used resin to preserve the flowers., 藝術家使用樹脂來保存花朵。
+fungi, 真菌, Fungi are essential in breaking down organic material., 真菌在分解有機物質中扮演重要角色。
+actor, 演員, The actor delivered an outstanding performance., 這位演員呈現了出色的表現。
+advertisements, 廣告, Advertisements appear everywhere in the city., 廣告無處不在。
+advertising, 廣告業, He works in the advertising industry., 他在廣告業工作。
+alteration, 改變, The alteration of the plan was necessary due to unforeseen circumstances., 由於不可預見的情況，計畫的改變是必要的。
+Antarctica, 南極洲, Antarctica is known for its extreme cold temperatures., 南極洲以極端的寒冷氣溫而聞名。
+architectures, 建築風格, The city’s architectures blend traditional and modern styles., 這座城市的建築風格融合了傳統與現代。
+baldness, 脫髮, Baldness can affect a person’s self-esteem., 脫髮可能會影響一個人的自尊心。
+bands, 樂隊, Many famous bands started in small clubs., 許多著名的樂隊起步於小型俱樂部。
+bases, 基地, The military has several bases around the world., 軍方在全球擁有數個基地。
+batteries, 電池, Make sure to replace the batteries in your remote control., 確保更換遙控器中的電池。
+beats, 節奏, The drummer kept the beats steady throughout the song., 鼓手在整首歌中保持穩定的節奏。
+bed sheet, 床單, She changed the bed sheet every week., 她每週更換床單。
+bedsit, 單間公寓, He lives in a small bedsit near the city center., 他住在市中心附近的一間小單間公寓。
+behaviors, 行為, Teachers often observe students’ behaviors in class., 老師們常常觀察學生在課堂上的行為。
+boarder, 寄宿生, The school has many boarders from different countries., 這所學校有來自不同國家的許多寄宿生。
+brochures, 宣傳冊, The hotel offers brochures about local attractions., 這家飯店提供有關當地景點的宣傳冊。
+bungalow, 平房, They built a new bungalow by the beach., 他們在海邊建了一座新的平房。
+burger, 漢堡, I had a cheeseburger for lunch., 我午餐吃了一個起司漢堡。
+cab, 計程車, We took a cab to the airport., 我們搭了計程車去機場。
+Cambridge, 劍橋, Cambridge is famous for its prestigious university., 劍橋因其著名的大學而聞名。
+cents, 分, A dollar is equal to one hundred cents., 一美元等於一百分。
+checks, 支票, I paid the bill by personal checks., 我用個人支票支付了帳單。
+chemist's, 藥局, She picked up the prescription from the chemist's., 她從藥局取了處方藥。
+cleaning, 清潔, Cleaning the house takes up most of the afternoon., 清潔房子花了整個下午。
+coke, 可樂, He ordered a coke with his meal., 他點了一杯可樂搭配餐點。
+commercials, 廣告, TV commercials influence consumer choices., 電視廣告會影響消費者的選擇。
+conferences, 會議, The company holds annual conferences for its employees., 公司每年舉辦員工大會。
+confirmation, 確認, You will receive an email confirmation for your reservation., 您將收到預訂的確認郵件。
+conqueror, 征服者, The conqueror expanded his empire across many nations., 這位征服者將他的帝國擴展到許多國家。
+contamination, 污染, Water contamination is a major concern in many areas., 水污染是許多地區的主要問題。
+contracts, 合同, Both parties signed the contracts on the dotted line., 雙方在合同上簽名。
+cooperations, 合作, The two companies formed a strong cooperation to enter the market., 這兩家公司建立了強有力的合作關係進軍市場。
+cop, 警察, The cop stopped the car for speeding., 警察因為超速攔下了那輛車。
+cot, 嬰兒床, The baby was asleep in her cot., 寶寶在嬰兒床上睡著了。
+decorations, 裝飾品, The Christmas decorations filled the house with cheer., 聖誕節的裝飾品讓整個家充滿歡樂。
+desks, 書桌, Each student had a desk in the classroom., 每位學生在課堂上都有一張書桌。
+discos, 迪斯科舞廳, The teenagers danced at the local discos., 青少年們在當地的迪斯科舞廳跳舞。
+drinking, 喝酒, Drinking too much can affect your health., 喝太多酒會影響健康。
+driving, 開車, Driving in the rain requires extra caution., 在雨中開車需要格外小心。
+eating, 吃, Eating vegetables is important for a balanced diet., 吃蔬菜對保持均衡飲食很重要。
+elements, 元素, Water is made up of the elements hydrogen and oxygen., 水是由氫和氧這兩種元素組成的。
+energies, 能量, Solar panels convert sunlight into usable energies., 太陽能板將陽光轉換為可用的能量。
+exercises, 運動, Daily exercises improve both physical and mental health., 每日運動有助於提高身體和心理健康。
+finding, 發現, The finding of the ancient ruins excited the archaeologists., 發現古代遺址讓考古學家們感到興奮。
+firms, 公司, Many firms are looking for skilled workers., 許多公司正在尋找技術熟練的員工。
+fishing, 釣魚, They spent the afternoon fishing by the lake., 他們在湖邊釣了一個下午的魚。
+foyer, 玄關, The guests gathered in the foyer before the ceremony., 客人在儀式前聚集在玄關。
+grades, 成績, She worked hard to improve her grades this semester., 她努力工作以提高這學期的成績。
+graduates, 畢業生, The graduates celebrated their achievements at the ceremony., 畢業生們在典禮上慶祝他們的成就。
+handball, 手球, He played handball in high school., 他在高中時打手球。
+handbooks, 手冊, The company issued handbooks for new employees., 公司為新員工發放了手冊。
+handling, 處理, Proper handling of chemicals is essential for safety., 正確處理化學品對安全至關重要。
+hearing, 聽力, His hearing improved after the surgery., 手術後他的聽力有所改善。
+heroes, 英雄, The firefighters were hailed as heroes after the rescue., 救援後，消防員被譽為英雄。
+hiking, 健行, We went hiking in the mountains last weekend., 我們上週末去山裡健行。
+hints, 提示, The teacher gave hints to help the students solve the problem., 老師給了提示來幫助學生解決問題。
+hits, 點擊, The video received over a thousand hits in just one day., 這段影片在一天內就收到了超過一千次點擊。
+households, 家庭, Most households own at least one television., 大多數家庭擁有至少一台電視。
+hotline, 熱線, The customer service hotline is available 24/7., 客服熱線全天候提供服務。
+hunting, 打獵, Hunting is restricted in many national parks., 許多國家公園限制打獵。
+imports, 進口, The company specializes in the imports of luxury goods., 該公司專門進口奢侈品。
+inability, 無法, His inability to follow instructions led to the mistake., 他無法遵循指示，導致了錯誤。
+incoming, 來臨的, The incoming train is delayed by 20 minutes., 即將到來的火車延誤了20分鐘。
+interviewer, 面試官, The interviewer asked several challenging questions., 面試官問了幾個具有挑戰性的問題。
+kelp, 海藻, Kelp forests provide habitats for many marine species., 海藻森林為許多海洋物種提供了棲息地。
+keyword, 關鍵字, You need to use relevant keywords for better search results., 你需要使用相關的關鍵字來獲得更好的搜尋結果。
+kiosk, 自動售貨機, The kiosk near the entrance sells snacks and drinks., 入口附近的自動售貨機販售零食和飲料。
+kits, 套件, The first aid kits are stored in the emergency cabinet., 急救套件被放在急救櫃中。
+lab, 實驗室, The lab is equipped with the latest scientific tools., 實驗室配備了最新的科學工具。
+lender, 出借人, The lender approved the loan after reviewing the documents., 出借人在審查文件後批准了貸款。
+lists, 清單, She made lists of tasks to be completed by the end of the day., 她列出了今天結束前需要完成的任務清單。
+making, 製作, The making of the film took over two years., 這部電影的製作花了兩年多的時間。
+mane, 鬃毛, The lion’s mane was thick and majestic., 獅子的鬃毛又厚又威武。
+marsh, 沼澤, The marsh was home to many rare bird species., 這片沼澤是許多稀有鳥類物種的棲息地。
+matching, 配對, They spent the afternoon matching socks in the laundry., 他們花了整個下午在洗衣服時配對襪子。
+nursing, 護理, She is studying nursing at the university., 她在大學學習護理。
+occupant, 居住者, The previous occupant of the apartment left in a hurry., 這間公寓的前任居住者匆忙搬走了。
+oculist, 眼科醫生, The oculist advised him to wear glasses for better vision., 眼科醫生建議他戴眼鏡以改善視力。
+overdraft, 透支, The bank charged a fee for exceeding the overdraft limit., 銀行對超過透支額度的交易收取費用。
+Oxford, 牛津, Oxford is one of the oldest universities in the world., 牛津大學是世界上最古老的大學之一。
+parking, 停車, Parking is free after 6 p.m., 停車在下午6點後是免費的。
+passages, 章節, The book has several passages that focus on history., 這本書有幾個專注於歷史的章節。
+pensioners, 退休金領取人, Pensioners receive monthly payments to support their living expenses., 退休金領取人每月獲得生活費用的補助。
+perk, 福利, One of the perks of the job is flexible working hours., 這份工作的福利之一是彈性工作時間。
+planners, 規劃者, The city planners discussed the development of the new park., 城市規劃者討論了新公園的開發計劃。
+plans, 計劃, Their plans for the weekend include hiking and a picnic., 他們週末的計劃包括健行和野餐。
+planting, 種植, Planting trees in urban areas helps reduce air pollution., 在城市區域種植樹木有助於減少空氣污染。
+particulars, 詳情, The particulars of the agreement will be finalized soon., 協議的詳情將很快確定。
+potteries, 陶瓷工藝, The pottery workshops taught students about traditional techniques., 陶瓷工藝課程教學生傳統技術。
+powerpoint, 投影片, He created a PowerPoint presentation for the meeting., 他為會議製作了一個PowerPoint簡報。
+printing, 印刷, The printing of the brochures was completed last week., 宣傳冊的印刷工作上週完成。
+professors, 教授, The professors at the university are leaders in their fields., 大學的教授在各自的領域中都是領袖。
+prospectus, 課程簡介, The prospectus provides detailed information about the courses., 課程簡介提供了有關課程的詳細信息。
+psychiatrist, 精神科醫生, He consulted a psychiatrist for help with his anxiety., 他去看了精神科醫生，尋求對抗焦慮的幫助。
+psychotherapy, 心理治療, Psychotherapy can be an effective treatment for depression., 心理治療對治療抑鬱症非常有效。
+rats, 老鼠, Rats are often used in laboratory experiments., 老鼠常被用於實驗室研究。
+reader, 讀者, The reader gave a positive review of the book., 讀者對這本書給出了正面的評論。
+reading, 閱讀, Reading books helps expand your knowledge., 閱讀書籍有助於擴展知識。
+recording, 錄音, The meeting was recorded for future reference., 會議被錄音以供未來參考。
+recycling, 回收, Recycling helps reduce waste and conserve resources., 回收有助於減少垃圾並節約資源。
+reflectance, 反射率, The mirror has high reflectance, making it ideal for telescopes., 這面鏡子有很高的反射率，適合用於望遠鏡。
+renewal, 更新, The renewal of the contract is due next month., 合同的更新將在下個月進行。
+rider, 騎士, The rider demonstrated impressive skills during the race., 騎士在比賽中展示了驚人的技能。
+riders, 騎手, The riders lined up at the starting line for the race., 騎手們在起跑線上排好隊。
+roommates, 室友, Her roommates are very friendly and helpful., 她的室友們非常友好且樂於助人。
+salads, 沙拉, The restaurant offers a variety of fresh salads., 這家餐廳提供各式各樣的新鮮沙拉。
+scandals, 醜聞, The celebrity’s personal life was filled with scandals., 這位名人的私生活充滿了醜聞。
+selections, 選擇, The store has a wide selection of wines., 這家店有各式各樣的葡萄酒供選擇。
+shoplifters, 盜竊者, Shoplifters are often caught by security cameras., 盜竊者經常被監視攝像頭抓到。
+shopper, 顧客, The shopper bought a new jacket from the store., 顧客從店裡買了一件新夾克。
+skating, 溜冰, They enjoyed skating at the outdoor rink., 他們在戶外溜冰場享受溜冰的樂趣。
+sleeping, 睡覺, He was sleeping soundly when the alarm went off., 當警報響起時，他正在熟睡。
+smoking, 吸菸, Smoking is harmful to your health., 吸菸對健康有害。
+speaking, 講話, Speaking in public can be intimidating for some people., 對一些人來說，公開演講會讓他們感到緊張。
+spending, 花費, She tracks her spending to manage her budget., 她跟蹤花費以便管理預算。
+spoons, 湯匙, We need more spoons for the soup., 我們需要更多的湯匙來吃湯。
+starter, 開胃菜, We ordered a soup as a starter before the main course., 我們點了一道湯作為開胃菜。
+starting, 開始, The meeting is starting in five minutes., 會議將在五分鐘內開始。
+stomachache, 胃痛, She took medicine for her stomachache., 她因為胃痛服用了藥物。
+sunshield, 防曬霜, Don’t forget to apply sunshield before going outside., 出門前別忘了擦防曬霜。
+supports, 支持, The beams of the building provide support for the structure., 建築的樑柱為結構提供支撐。
+switches, 開關, She flipped the switches to turn on the lights., 她按下開關來開啟燈光。
+syndicate, 聯合企業, The syndicate controls several large businesses., 這個聯合企業掌控了幾家大型企業。
+teaching, 教學, Teaching is a rewarding profession., 教學是一個充滿成就感的職業。
+jargon, 行話, The manager explained the technical jargon in simple terms., 經理將專業行話用簡單的語言解釋清楚。
+thieves, 小偷, Thieves stole valuables from the house during the night., 小偷在夜間偷走了房子裡的貴重物品。
+thinking, 思考, His thinking process was quick and accurate., 他的思考過程迅速且準確。
+tides, 潮汐, The tides are higher during the full moon., 在滿月期間潮汐會更高。
+toaster, 烤麵包機, The toaster can make two slices of bread at once., 這個烤麵包機一次可以烤兩片麵包。
+touring, 巡演, The band is touring the country this summer., 這支樂隊今年夏天將在全國巡演。
+trailer, 拖車, The movie trailer was released last week., 電影預告片上週發布了。
+tributes, 致敬, The event featured tributes to the late artist., 這個活動向已故藝術家致敬。
+Trinity, 三位一體, The Trinity is an important concept in Christianity., 三位一體是基督教中的重要概念。
+tunnels, 隧道, The workers dug tunnels for the new subway line., 工人們為新地鐵線挖掘了隧道。
+tunes, 曲調, She played her favorite tunes on the piano., 她在鋼琴上演奏了自己最喜歡的曲調。
+understanding, 理解, His understanding of the topic is impressive., 他對這個主題的理解令人印象深刻。
+walking, 走路, Walking is a good form of exercise., 走路是很好的運動方式。
+warming, 取暖, The warming temperatures are a sign of spring., 溫暖的氣溫是春天來臨的徵兆。
+washing, 洗滌, Washing the dishes is part of my daily routine., 洗碗是我日常生活的一部分。
+wasp, 黃蜂, Be careful of the wasp nest in the tree., 小心樹上的黃蜂巢。
+wasteland, 荒地, The wasteland was covered in dry grass and shrubs., 荒地上長滿了枯草和灌木。
+weeds, 雜草, She pulled the weeds from the garden., 她把花園裡的雜草拔掉了。
+wetland, 濕地, Wetlands are important for maintaining biodiversity., 濕地對維護生物多樣性至關重要。
+willows, 柳樹, The willows along the riverbank provide shade., 河岸邊的柳樹提供了陰涼處。
+working, 工作, She is working on a new project at the moment., 她目前正在做一個新專案。
+writing, 寫作, Writing is a skill that improves with practice., 寫作是通過練習不斷提高的技能。
+labor-consuming, 勞動密集型, Farming is often considered a labor-consuming industry., 農業通常被認為是勞動密集型產業。
+thriving, 繁榮的, The business is thriving in the current market., 這個業務在當前市場上蓬勃發展。
+contributory, 貢獻的, His contributory efforts to the project were highly valued., 他對專案的貢獻努力受到了高度評價。
+prolific, 多產的, The prolific writer published several books last year., 這位多產的作家去年出版了幾本書。
+confusing, 令人困惑的, The instructions were so confusing that no one could follow them., 指示非常混亂，沒有人能跟得上。
+permanently, 永久地, The building was permanently closed due to safety concerns., 由於安全問題，這座建築被永久關閉。
+electronically, 電子方式, The documents were submitted electronically for review., 文件以電子方式提交以供審核。
+amazing, 驚人的, The view from the top of the mountain was amazing., 從山頂的景色非常驚人。
+applied, 應用的, Applied science focuses on practical use of scientific knowledge., 應用科學專注於科學知識的實際應用。
+archaeological, 考古的, The archaeological dig uncovered ancient artifacts., 考古挖掘發現了古代文物。
+ascending, 上升, The climbers were ascending the steep slope., 攀登者正在向陡坡上升。
+attentive, 專心的, The teacher was attentive to the needs of her students., 老師專心關注學生的需求。
+British, 英國的, British literature has a rich and diverse history., 英國文學擁有豐富且多樣的歷史。
+buried, 埋葬的, The treasure was buried deep in the sand., 財寶深埋在沙中。
+calculating, 計算的, The calculating machine can solve complex problems., 這台計算機可以解決複雜的問題。
+challenging, 具有挑戰性的, The mountain hike was very challenging but rewarding., 這次爬山非常具有挑戰性，但也很有成就感。
+cheaper, 更便宜的, This store offers cheaper prices than others., 這家商店的價格比其他商店更便宜。
+children's, 兒童的, The children's playground was full of happy kids., 兒童遊樂場裡充滿了快樂的孩子們。
+cleanest, 最乾淨的, The hotel is known for having the cleanest rooms., 這家飯店因擁有最乾淨的房間而聞名。
+coastal, 沿海的, The coastal area is famous for its beautiful beaches., 這片沿海地區以美麗的沙灘而聞名。
+commonsense, 常識, It’s common sense to look both ways before crossing the street., 過馬路前看看兩邊是常識。
+completed, 完成的, The project was completed ahead of schedule., 該專案提前完成。
+curly, 捲曲的, She has curly hair that she loves to style., 她有捲曲的頭髮，喜歡做造型。
+departmental, 部門的, The departmental meeting will be held in the conference room., 部門會議將在會議室舉行。
+disabled, 殘疾的, The building is accessible for disabled individuals., 這棟建築對殘疾人士是可進入的。
+excited, 激動的, She was excited to meet her favorite author., 她很激動能見到她最喜歡的作家。
+exciting, 激動人心的, The race was so exciting that everyone cheered., 比賽激動人心，大家都在歡呼。

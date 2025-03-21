@@ -45,6 +45,12 @@ const urls = {
             house: {
                 url: 'https://www.rakuya.com.tw/sell/result?city=3&price=~2500&typecode=R4%2CR5%2CR9&sort=21',
                 regx: /<span class="setSearchTotal setSearchItemTotal">([^<]+)<\/span>/
+            },
+            tw_0056: {
+                url: 'https://tw.stock.yahoo.com/quote/0056',
+                regx: /<span class="Fz\(32px\) Fw\(b\) Lh\(1\) Mend\(16px\) D\(f\) Ai\(c\) C\(\$c-trend-up\)">([^<]+)<\/span>/,
+                regx2: /<span class="Fz\(32px\) Fw\(b\) Lh\(1\) Mend\(16px\) D\(f\) Ai\(c\)">([^<]+)<\/span>/,
+                regx3: /<span class="Fz\(32px\) Fw\(b\) Lh\(1\) Mend\(16px\) D\(f\) Ai\(c\) C\(\$c-trend-down\)">([^<]+)<\/span>/,
             }
         },
         category: {
@@ -95,6 +101,7 @@ const urls = {
         'TSMC': await getPageTarget(driver, urls.tw.index.TSMC),
         'us00679b': await getPageTarget(driver, urls.tw.index.us00679b),
         'house': await getPageTarget(driver, urls.tw.index.house),
+        'tw_0056': await getPageTarget(driver, urls.tw.index.tw_0056),
         // 'building': await getPageTarget(driver, urls.building),
     };
     console.log(row);
